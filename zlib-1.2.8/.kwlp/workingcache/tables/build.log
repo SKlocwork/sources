@@ -1,0 +1,12 @@
+-----
+Klocwork 10.4.0.0
+Installation directory: "D:\Klocwork\Klocwork 10.4 Command Line"
+Tables directory: "C:\space\testing\sources\zlib-1.2.8\.kwlp\workingcache\tables"
+Jobs number: 5
+-----
+Incremental build message: Updated configuration checksum: 1441200103183;0de7c92a09058c7ed86f89bda27c72e2en
+October 13, 2015 9:22:48 EDT AM: Running build preparation stage...
+Incremental build message: Analysing build specification changes...
+Incremental build message: Analysing source files dependencies...
+October 13, 2015 9:22:48 EDT AM: Build preparation stage completed
+The project is up to date

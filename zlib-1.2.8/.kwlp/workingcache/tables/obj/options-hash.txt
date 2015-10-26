@@ -1,0 +1,17 @@
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\compress.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\adler32.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\crc32.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\gzclose.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\deflate.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\gzwrite.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\gzread.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\gzlib.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\infback.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\inftrees.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\uncompr.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\inffast.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\inflate.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\trees.obj
+a7161c948762759533a6c850d4a93883C:\space\testing\sources\zlib-1.2.8\zutil.obj
+f96ec3a4eb8e85c4f9ee0473c774a3dbC:\space\testing\sources\zlib-1.2.8\minigzip.obj
+f96ec3a4eb8e85c4f9ee0473c774a3dbC:\space\testing\sources\zlib-1.2.8\example.obj

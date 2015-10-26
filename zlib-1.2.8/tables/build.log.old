@@ -1,0 +1,119 @@
+Working directory: "C:\space\testing\sources\zlib-1.2.8"
+Command line arguments: "--license-host" "flex1" "-f" "-o" "tables" "kwinject.out"
+-----
+Klocwork 10.4.0.2110
+Installation directory: "D:\Klocwork\Server 10.4"
+Tables directory: "C:\space\testing\sources\zlib-1.2.8\tables"
+Jobs number: 5
+-----
+October 13, 2015 9:24:00 EDT AM: Running build preparation stage...
+October 13, 2015 9:24:00 EDT AM: Build preparation stage completed
+October 13, 2015 9:24:00 EDT AM: Running compilation stage...
+1> working directory: "C:\space\testing\sources\zlib-1.2.8"
+1> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\adler32.c_0.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\adler32.c_0.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\adler32.c"
+4> working directory: "C:\space\testing\sources\zlib-1.2.8"
+4> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\compress.c_1.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\compress.c_1.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\compress.c"
+5> working directory: "C:\space\testing\sources\zlib-1.2.8"
+5> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\crc32.c_2.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\crc32.c_2.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\crc32.c"
+3> working directory: "C:\space\testing\sources\zlib-1.2.8"
+3> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\gzclose.c_4.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\gzclose.c_4.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\gzclose.c"
+2> working directory: "C:\space\testing\sources\zlib-1.2.8"
+2> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\deflate.c_3.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\deflate.c_3.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\deflate.c"
+4> working directory: "C:\space\testing\sources\zlib-1.2.8"
+4> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\gzlib.c_5.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\gzlib.c_5.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\gzlib.c"
+1> working directory: "C:\space\testing\sources\zlib-1.2.8"
+1> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\gzread.c_6.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\gzread.c_6.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\gzread.c"
+5> working directory: "C:\space\testing\sources\zlib-1.2.8"
+5> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\gzwrite.c_7.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\gzwrite.c_7.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\gzwrite.c"
+3> working directory: "C:\space\testing\sources\zlib-1.2.8"
+3> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\infback.c_8.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\infback.c_8.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\infback.c"
+2> working directory: "C:\space\testing\sources\zlib-1.2.8"
+2> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\inflate.c_9.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\inflate.c_9.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\inflate.c"
+5> working directory: "C:\space\testing\sources\zlib-1.2.8"
+5> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\inftrees.c_10.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\inftrees.c_10.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\inftrees.c"
+1> working directory: "C:\space\testing\sources\zlib-1.2.8"
+1> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\inffast.c_11.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\inffast.c_11.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\inffast.c"
+4> working directory: "C:\space\testing\sources\zlib-1.2.8"
+4> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\trees.c_12.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\trees.c_12.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\trees.c"
+3> working directory: "C:\space\testing\sources\zlib-1.2.8"
+3> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\uncompr.c_13.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\uncompr.c_13.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\uncompr.c"
+1> working directory: "C:\space\testing\sources\zlib-1.2.8"
+1> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\zutil.c_14.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\zutil.c_14.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\zutil.c"
+5> working directory: "C:\space\testing\sources\zlib-1.2.8"
+5> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\example.c_15.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\example.c_15.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-I." "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\test\example.c"
+2> working directory: "C:\space\testing\sources\zlib-1.2.8"
+2> executing: "D:\Klocwork\Server 10.4\bin\kwcc.exe" "-c" "--security" "--metrics" "--ignore-extension" "--lang" "en" "-o" "C:\space\testing\sources\zlib-1.2.8\tables\obj\minigzip.c_16.o" "--deps-file" "C:\space\testing\sources\zlib-1.2.8\tables\dep\minigzip.c_16.d" "-nocc" "-e" "ms" "-D_MSC_VER=1700" "-D_MSC_BUILD=1" "-D_MSC_FULL_VER=170050727" "-D_WIN32=1" "-D_M_IX86=600" "-D_INTEGRAL_MAX_BITS=64" "-D_M_IX86_FP=2" "-Drestrict(x,y)=" "--type-sizes=2:4:4:4" "-I." "-D_CRT_SECURE_NO_DEPRECATE" "-D_CRT_NONSTDC_NO_DEPRECATE" "-D_MT" "-D_DLL" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\INCLUDE" "-JC:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\ATLMFC\INCLUDE" "-JC:\Program Files (x86)\Windows Kits\8.0\include\shared" "-JC:\Program Files (x86)\Windows Kits\8.0\include\um" "-JC:\Program Files (x86)\Windows Kits\8.0\include\winrt" "C:\space\testing\sources\zlib-1.2.8\test\minigzip.c"
+October 13, 2015 9:24:04 EDT AM: Compilation stage completed
+October 13, 2015 9:24:04 EDT AM: Running C/C++ defects detection stage...
+working directory: "C:\space\testing\sources\zlib-1.2.8"
+executing: "D:\Klocwork\Server 10.4\exec\ix86-pc-win32\kwlef.exe" "--license-host" "flex1" "--license-port" "27000" "--force" "--lang" "en" "--verbose" "-j" "5" "-o" "C:\space\testing\sources\zlib-1.2.8\tables" "-m" "C:\space\testing\sources\zlib-1.2.8\tables\obj\object-mapping.txt" "-b" "C:\space\testing\sources\zlib-1.2.8\tables\buildspec.out"
+Used FBKBs:
+    d:\klocwork\server 10.4\config\kb\cpp\posix.kb
+    d:\klocwork\server 10.4\config\kb\cpp\stdc.kb
+    d:\klocwork\server 10.4\config\kb\cpp\winapi32.kb
+kwlef: Info: Object file directory: C:\space\testing\sources\zlib-1.2.8\tables\obj
+1> Analyzing adler32.c_0.o
+2> Analyzing crc32.c_2.o
+3> Analyzing gzlib.c_5.o
+4> Analyzing inftrees.c_10.o
+5> Analyzing inffast.c_11.o
+1> Analyzing trees.c_12.o
+2> Analyzing zutil.c_14.o
+5> Analyzing infback.c_8.o
+2> Analyzing inflate.c_9.o
+3> Analyzing deflate.c_3.o
+4> Analyzing compress.c_1.o
+1> Analyzing gzwrite.c_7.o
+3> Analyzing gzread.c_6.o
+4> Analyzing uncompr.c_13.o
+1> Analyzing gzclose.c_4.o
+2> Analyzing example.c_15.o
+3> Analyzing minigzip.c_16.o
+October 13, 2015 9:24:40 EDT AM: C/C++ defects detection stage completed
+October 13, 2015 9:24:40 EDT AM: Running linking stage...
+working directory: "C:\space\testing\sources\zlib-1.2.8"
+executing: "D:\Klocwork\Server 10.4\exec\ix86-pc-win32\kwlinker.exe" "--encoding" "windows-1252" "--progress" "-o" "C:\space\testing\sources\zlib-1.2.8\tables" "-w" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\0.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\1.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\2.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\3.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\4.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\5.olist" "-s" "C:\space\testing\sources\zlib-1.2.8\tables\obj\6.olist" "-R" "C:\space\testing\sources\zlib-1.2.8\tables\obj\java"
+October 13, 2015 9:24:41 EDT AM: Linking stage completed
+October 13, 2015 9:24:41 EDT AM: Running reports generation stage...
+working directory: "C:\space\testing\sources\zlib-1.2.8"
+executing: "D:\Klocwork\Server 10.4\bin\kwinspect.exe" "--lang" "en" "--table-dir" "C:\space\testing\sources\zlib-1.2.8\tables" "--report-directory" "C:\space\testing\sources\zlib-1.2.8\tables\reports"
+October 13, 2015 9:24:42 EDT AM: Reports generation stage completed
+-----
+Klocwork 10.4.0.2110
+Installation directory: "D:\Klocwork\Server 10.4"
+Tables directory: "C:\space\testing\sources\zlib-1.2.8\tables"
+Jobs number: 5
+-----
+October 13, 2015 9:25:17 EDT AM: Running build preparation stage...
+October 13, 2015 9:25:17 EDT AM: Build preparation stage completed
+
+Date: Tue Oct 13 09:25:18 EDT 2015
+Starting build zlib:build_3
+
+October 13, 2015 9:25:18 EDT AM: Running propagation stage...
+9:25:18 AM: Uploading table files to the server...
+9:25:18 AM: Table files uploaded to the server.
+9:25:18 AM: Propagating build on the server side...
+9:25:20 AM: Build propagated on the server side.
+9:25:20 AM: Downloading new table files from the server...
+9:25:20 AM: New table files downloaded.
+9:25:20 AM: Downloading the kwpropagate.log file...
+9:25:20 AM: The kwpropagate.log file downloaded.
+October 13, 2015 9:25:20 EDT AM: Propagation stage completed
+
+October 13, 2015 9:25:20 EDT AM: Running updating server data stage...
+October 13, 2015 9:25:21 EDT AM: Updating server data stage completed
+
+October 13, 2015 9:25:21 EDT AM: Running database loading stage...
+9:25:21 AM: Loading build database on the server side...
+October 13, 2015 9:25:23 EDT AM: Running shared database loading stage...
+9:25:25 AM: Build database loaded on the server side.
+9:25:25 AM: Downloading new table files from the server...
+9:25:26 AM: New table files downloaded.
+9:25:26 AM: Deleting table files from the server...
+9:25:26 AM: Table files deleted from the server...
+9:25:26 AM: Downloading the kwloaddb.log file...
+9:25:26 AM: The kwloaddb.log file downloaded.
+October 13, 2015 9:25:26 EDT AM: Database loading stage completed
+
+Build successfully created.

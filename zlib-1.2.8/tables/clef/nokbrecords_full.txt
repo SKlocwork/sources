@@ -1,0 +1,9 @@
+List of functions with unknown behavior (and their header files)
+
+<SYSTEM>    __iob_func;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h
+<SYSTEM>    _errno;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stddef.h
+<SYSTEM>    _lseeki64;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h
+<SYSTEM>    _vswprintf_c_l;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h
+<SYSTEM>    _wopen;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h
+<SYSTEM>    setmode;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\io.h
+<SYSTEM>    wcsnlen;    C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h

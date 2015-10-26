@@ -1,0 +1,16 @@
+gzlib.c_5.o
+inflate.c_9.o
+trees.c_12.o
+inftrees.c_10.o
+uncompr.c_13.o
+gzclose.c_4.o
+compress.c_1.o
+gzwrite.c_7.o
+inffast.c_11.o
+crc32.c_2.o
+zutil.c_14.o
+adler32.c_0.o
+minigzip.c_16.o
+deflate.c_3.o
+gzread.c_6.o
+infback.c_8.o

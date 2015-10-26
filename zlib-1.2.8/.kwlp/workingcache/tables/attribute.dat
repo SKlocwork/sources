@@ -1,0 +1,1618 @@
+3012;language;c
+39;language;c
+3015;language;c
+37;language;c
+2626;header-location;system
+2626;language;c
+3014;language;c
+1318;header-location;system
+1318;language;c
+9;header-location;system
+9;language;c
+1374;header-location;system
+1374;language;c
+1382;header-location;system
+1382;language;c
+2972;translation-mode;implementation
+2972;language;c
+3153;translation-mode;implementation
+3153;language;c
+2070;language;c
+2046;language;c
+2623;language;c
+3149;translation-mode;implementation
+3149;language;c
+1307;header-location;system
+1307;language;c
+5;header-location;system
+5;language;c
+2950;translation-mode;implementation
+2950;language;c
+1113;header-location;system
+1113;language;c
+2687;header-location;system
+2687;language;c
+57;header-location;system
+57;language;c
+60;header-location;system
+60;language;c
+2992;translation-mode;implementation
+2992;language;c
+3007;translation-mode;implementation
+3007;language;c
+2042;translation-mode;implementation
+2042;language;c
+28;translation-mode;implementation
+28;language;c
+2295;header-location;system
+2295;language;c
+2661;header-location;system
+2661;language;c
+34;language;c
+2252;translation-mode;implementation
+2252;language;c
+3174;translation-mode;implementation
+3174;language;c
+3181;language;c
+3248;translation-mode;implementation
+3248;language;c
+1313;header-location;system
+1313;language;c
+3245;translation-mode;implementation
+3245;language;c
+2069;translation-mode;implementation
+2069;language;c
+2035;translation-mode;implementation
+2035;language;c
+2254;header-location;system
+2254;language;c
+2622;translation-mode;implementation
+2622;language;c
+52;header-location;system
+52;language;c
+1042;header-location;system
+1042;language;c
+3115;translation-mode;implementation
+3115;language;c
+3111;translation-mode;implementation
+3111;language;c
+3258;issystem;true
+3258;language;c
+3008;language;c
+1966;_signature;long long int _wcstoi64(const wchar_t*, wchar_t**, int)
+1892;_signature;char* _ltoa(long int, char*, int)
+2576;_signature;int _fflush_nolock(FILE*)
+2407;_signature;int _snscanf_l(const char*, size_t, const char*, _locale_t, ...)
+2995;linkage;static
+2995;_signature;int gz_zero(gz_statep, long long int)
+2998;linkage;static
+2998;_signature;int gz_zero(gz_statep, long long int)
+2546;_signature;int fwscanf_s(FILE*, const wchar_t*, ...)
+2548;_signature;int swscanf(const wchar_t*, const wchar_t*, ...)
+2894;_signature;int _wfindnext64(intptr_t, _wfinddata64_t*)
+1777;_signature;size_t _wcsxfrm_l(wchar_t*, const wchar_t*, size_t, _locale_t)
+1675;externality;declared
+1675;_signature;size_t strlen(const char*)
+3259;externality;unknown
+3259;_signature;size_t strlen(const char*)
+2431;_signature;int _printf_p(const char*, ...)
+2436;_signature;int _scprintf_p(const char*, ...)
+2017;_signature;char* ltoa(long int, char*, int)
+1707;_signature;errno_t strncpy_s(char*, rsize_t, const char*, rsize_t)
+2435;_signature;int _vsprintf_p(char*, size_t, const char*, va_list)
+2790;typetag;struct
+2794;member-access;public
+2793;member-access;public
+2795;member-access;public
+2796;member-access;public
+2791;member-access;public
+2792;member-access;public
+2868;_signature;intptr_t _findfirst64i32(const char*, _finddata64i32_t*)
+2393;_signature;int _scanf_s_l(const char*, _locale_t, ...)
+2030;linkage;static
+2030;_signature;uLong adler32_combine_(uLong, uLong, long long int)
+2032;linkage;static
+2032;_signature;uLong adler32_combine_(uLong, uLong, long long int)
+2455;_signature;int _vsprintf_l(char*, const char*, _locale_t, va_list)
+1676;externality;declared
+1676;_signature;size_t strnlen(const char*, size_t)
+3260;externality;unknown
+3260;_signature;size_t strnlen(const char*, size_t)
+2508;_signature;int _wprintf_l(const wchar_t*, _locale_t, ...)
+3192;linkage;static
+3070;typetag;struct
+3100;member-access;public
+3092;member-access;public
+3104;member-access;public
+3071;member-access;public
+3074;member-access;public
+3076;member-access;public
+3097;member-access;public
+3101;member-access;public
+3077;member-access;public
+3099;member-access;public
+3096;member-access;public
+3075;member-access;public
+3080;member-access;public
+3087;member-access;public
+3090;member-access;public
+3091;member-access;public
+3093;member-access;public
+3098;member-access;public
+3083;member-access;public
+3084;member-access;public
+3089;member-access;public
+3102;member-access;public
+3086;member-access;public
+3103;member-access;public
+3094;member-access;public
+3078;member-access;public
+3085;member-access;public
+3095;member-access;public
+3073;member-access;public
+3079;member-access;public
+3088;member-access;public
+3081;member-access;public
+3072;member-access;public
+3082;member-access;public
+2217;linkage;static
+2217;_signature;uInt longest_match(deflate_state*, IPos)
+2245;linkage;static
+2245;_signature;uInt longest_match(deflate_state*, IPos)
+1825;_signature;_invalid_parameter_handler _set_invalid_parameter_handler(_invalid_parameter_handler)
+3193;linkage;static
+2586;_signature;int fcloseall()
+1986;_signature;void _makepath(char*, const char*, const char*, const char*, const char*)
+1601;_signature;int inflateGetHeader(z_streamp, gz_headerp)
+3142;_signature;int inflateGetHeader(z_streamp, gz_headerp)
+1745;_signature;wchar_t* wcsncat(wchar_t*, const wchar_t*, size_t)
+2896;externality;declared
+2896;_signature;int _wopen(const wchar_t*, int, ...)
+3261;externality;unknown
+3261;_signature;int _wopen(const wchar_t*, int, ...)
+1681;_signature;char* strchr(const char*, int)
+2444;_signature;int _vprintf_p_l(const char*, _locale_t, va_list)
+2505;_signature;int _vswprintf_p(wchar_t*, size_t, const wchar_t*, va_list)
+2468;_signature;FILE* _wfsopen(const wchar_t*, const wchar_t*, int)
+2510;_signature;int _wprintf_s_l(const wchar_t*, _locale_t, ...)
+2566;_signature;FILE* _wpopen(const wchar_t*, const wchar_t*)
+2893;_signature;int _wfindnext64i32(intptr_t, _wfinddata64i32_t*)
+2976;linkage;static
+2976;_signature;int gz_decomp(gz_statep)
+2982;linkage;static
+2982;_signature;int gz_decomp(gz_statep)
+1974;_signature;char* _fcvt(double, int, int*, int*)
+1598;_signature;int inflateReset2(z_streamp, int)
+3132;_signature;int inflateReset2(z_streamp, int)
+1731;_signature;char* strset(char*, int)
+2383;_signature;int _putw(int, FILE*)
+1542;_signature;uintptr_t __threadhandle()
+1781;_signature;int _wcsicoll_l(const wchar_t*, const wchar_t*, _locale_t)
+1647;_signature;long int gzoffset(gzFile)
+2967;_signature;long int gzoffset(gzFile)
+2371;_signature;int _getmaxstdio()
+1894;_signature;int _mblen_l(const char*, size_t, _locale_t)
+2328;externality;declared
+2328;_signature;FILE* __iob_func()
+3262;externality;unknown
+3262;_signature;FILE* __iob_func()
+2374;_signature;int _getw(FILE*)
+2424;_signature;int vsprintf_s(char*, size_t, const char*, va_list)
+1836;_signature;wchar_t*** __p__wenviron()
+1895;_signature;size_t _mbstrlen(const char*)
+1684;_signature;int _stricmp_l(const char*, const char*, _locale_t)
+1730;_signature;char* strrev(char*)
+3127;linkage;static
+3127;_signature;void fixedtables(inflate_state*)
+3106;linkage;static
+3106;_signature;void fixedtables(inflate_state*)
+3136;linkage;static
+3136;_signature;void fixedtables(inflate_state*)
+3108;linkage;static
+3108;_signature;void fixedtables(inflate_state*)
+2854;_signature;int _isatty(int)
+1583;_signature;int inflateEnd(z_streamp)
+3139;_signature;int inflateEnd(z_streamp)
+1736;_signature;wchar_t* wcschr(const wchar_t*, wchar_t)
+2513;_signature;int _vwprintf_s_l(const wchar_t*, _locale_t, va_list)
+2461;_signature;int _vscprintf_p_l(const char*, _locale_t, va_list)
+1643;_signature;int gzgetc_(gzFile)
+2987;_signature;int gzgetc_(gzFile)
+2342;_signature;int _fgetchar()
+1758;_signature;errno_t __wcserror_s(wchar_t*, size_t, const wchar_t*)
+1770;_signature;errno_t _wcslwr_s_l(wchar_t*, size_t, _locale_t)
+2544;_signature;int fwscanf(FILE*, const wchar_t*, ...)
+1700;_signature;errno_t _strlwr_s_l(char*, size_t, _locale_t)
+2463;_signature;int _snprintf_c_l(char*, size_t, const char*, _locale_t, ...)
+1494;typetag;struct
+1511;typetag;struct
+1518;member-access;public
+1521;member-access;public
+1516;member-access;public
+1519;member-access;public
+1526;member-access;public
+1515;member-access;public
+1514;member-access;public
+1530;member-access;public
+1522;member-access;public
+1527;member-access;public
+1529;member-access;public
+1520;member-access;public
+1513;member-access;public
+1525;member-access;public
+1528;member-access;public
+1524;member-access;public
+1517;member-access;public
+1512;member-access;public
+2603;_signature;void test_sync(Byte*, uLong, Byte*, uLong)
+2618;_signature;void test_sync(Byte*, uLong, Byte*, uLong)
+2977;linkage;static
+2977;_signature;int gz_fetch(gz_statep)
+2983;linkage;static
+2983;_signature;int gz_fetch(gz_statep)
+2450;_signature;int _vfprintf_p_l(FILE*, const char*, _locale_t, va_list)
+2439;_signature;int _get_printf_count_output()
+2511;_signature;int _vwprintf_l(const wchar_t*, _locale_t, va_list)
+1638;_signature;int inflateInit2_(z_streamp, int, const char*, int)
+3133;_signature;int inflateInit2_(z_streamp, int, const char*, int)
+1639;_signature;int inflateBackInit_(z_streamp, int, unsigned char*, const char*, int)
+3107;_signature;int inflateBackInit_(z_streamp, int, unsigned char*, const char*, int)
+1816;typetag;struct
+1817;member-access;public
+2851;_signature;intptr_t _findfirst32(const char*, _finddata32_t*)
+1932;_signature;void* _aligned_offset_malloc(size_t, size_t, size_t)
+1936;_signature;void* _aligned_offset_recalloc(void*, size_t, size_t, size_t, size_t)
+2434;_signature;int _vprintf_p(const char*, va_list)
+2396;_signature;unsigned int _set_output_format(unsigned int)
+1934;_signature;void* _aligned_recalloc(void*, size_t, size_t, size_t)
+1706;_signature;int _strnicmp_l(const char*, const char*, size_t, _locale_t)
+2532;_signature;int _vsnwprintf_s_l(wchar_t*, size_t, size_t, const wchar_t*, _locale_t, va_list)
+2330;_signature;int _filbuf(FILE*)
+1890;_signature;lldiv_t lldiv(long long int, long long int)
+1723;_signature;size_t _strxfrm_l(char*, const char*, size_t, _locale_t)
+2859;_signature;int _pipe(int*, unsigned int, int)
+2345;_signature;int _fileno(FILE*)
+2469;_signature;wint_t fgetwc(FILE*)
+2507;_signature;int _vscwprintf_p(const wchar_t*, va_list)
+2871;_signature;int _findnext64i32(intptr_t, _finddata64i32_t*)
+3163;_signature;void gz_compress(FILE*, gzFile)
+3169;_signature;void gz_compress(FILE*, gzFile)
+2362;_signature;int _fscanf_s_l(FILE*, const char*, _locale_t, ...)
+2887;_signature;errno_t _wmktemp_s(wchar_t*, size_t)
+3196;linkage;static
+1979;_signature;int _atoflt(_CRT_FLOAT*, char*)
+2545;_signature;int _fwscanf_l(FILE*, const wchar_t*, _locale_t, ...)
+1992;_signature;unsigned long long int _rotl64(unsigned long long int, int)
+2861;_signature;int _setmode(int, int)
+1968;_signature;unsigned long long int _wcstoui64(const wchar_t*, wchar_t**, int)
+1663;externality;declared
+1663;_signature;void* memcpy(void*, const void*, size_t)
+3263;externality;unknown
+3263;_signature;void* memcpy(void*, const void*, size_t)
+1957;_signature;int _wtoi_l(const wchar_t*, _locale_t)
+1689;_signature;int _strncoll(const char*, const char*, size_t)
+2057;linkage;static
+2057;_signature;void gf2_matrix_square(unsigned long int*, unsigned long int*)
+2065;linkage;static
+2065;_signature;void gf2_matrix_square(unsigned long int*, unsigned long int*)
+2382;_signature;int puts(const char*)
+2398;_signature;int setvbuf(FILE*, char*, int, size_t)
+3167;_signature;int main(int, char*[])
+2606;_signature;int main(int, char*[])
+3173;_signature;int main(int, char*[])
+2621;_signature;int main(int, char*[])
+3211;linkage;static
+3211;_signature;void gen_codes(ct_data*, int, ushf*)
+3228;linkage;static
+3228;_signature;void gen_codes(ct_data*, int, ushf*)
+1653;_signature;int inflateUndermine(z_streamp, int)
+3147;_signature;int inflateUndermine(z_streamp, int)
+1615;_signature;int gzsetparams(gzFile, int, int)
+3005;_signature;int gzsetparams(gzFile, int, int)
+2068;_signature;uLong crc32_combine64(uLong, uLong, long long int)
+1925;externality;declared
+1925;_signature;void* calloc(size_t, size_t)
+3264;externality;unknown
+3264;_signature;void* calloc(size_t, size_t)
+2538;linkage;static
+2538;optimization;inline
+2538;_signature;int vswprintf(wchar_t*, size_t, const wchar_t*, va_list)
+1634;_signature;uLong crc32(uLong, const Bytef*, uInt)
+2061;_signature;unsigned long int crc32(unsigned long int, const unsigned char*, uInt)
+2391;_signature;int _scanf_l(const char*, _locale_t, ...)
+2915;externality;declared
+2915;_signature;int open(const char*, int, ...)
+3265;externality;unknown
+3265;_signature;int open(const char*, int, ...)
+1593;_signature;int inflateSetDictionary(z_streamp, const Bytef*, uInt)
+3141;_signature;int inflateSetDictionary(z_streamp, const Bytef*, uInt)
+1921;_signature;errno_t wcstombs_s(size_t*, char*, size_t, const wchar_t*, size_t)
+1917;_signature;int wctomb(char*, wchar_t)
+3222;linkage;static
+3222;_signature;void copy_block(deflate_state*, charf*, unsigned int, int)
+3244;linkage;static
+3244;_signature;void copy_block(deflate_state*, charf*, unsigned int, int)
+1860;_signature;double atof(const char*)
+1690;_signature;int _strncoll_l(const char*, const char*, size_t, _locale_t)
+1699;_signature;char* _strlwr(char*)
+2194;_signature;void _tr_flush_bits(deflate_state*)
+3235;_signature;void _tr_flush_bits(deflate_state*)
+2873;externality;declared
+2873;_signature;long long int _lseeki64(int, long long int, int)
+3266;externality;unknown
+3266;_signature;long long int _lseeki64(int, long long int, int)
+1767;_signature;wchar_t* _wcsset(wchar_t*, wchar_t)
+1837;_signature;char** __p__pgmptr()
+1738;_signature;errno_t wcscpy_s(wchar_t*, rsize_t, const wchar_t*)
+2437;_signature;int _vscprintf_p(const char*, va_list)
+1714;_signature;size_t strspn(const char*, const char*)
+1644;_signature;gzFile gzopen(const char*, const char*)
+2956;_signature;gzFile gzopen(const char*, const char*)
+2924;_signature;long long int gztell64(gzFile)
+2964;_signature;long long int gztell64(gzFile)
+3213;linkage;static
+3213;_signature;void scan_tree(deflate_state*, ct_data*, int)
+3230;linkage;static
+3230;_signature;void scan_tree(deflate_state*, ct_data*, int)
+2390;_signature;int scanf(const char*, ...)
+1778;_signature;int wcscoll(const wchar_t*, const wchar_t*)
+2196;_signature;void _tr_stored_block(deflate_state*, charf*, ulg, int)
+3234;_signature;void _tr_stored_block(deflate_state*, charf*, ulg, int)
+2429;_signature;int _vsnprintf_c(char*, size_t, const char*, va_list)
+1587;_signature;int deflateParams(z_streamp, int, int)
+2235;_signature;int deflateParams(z_streamp, int, int)
+2484;_signature;int fwprintf_s(FILE*, const wchar_t*, ...)
+2559;_signature;int _wscanf_s_l(const wchar_t*, _locale_t, ...)
+2404;_signature;int sscanf_s(const char*, const char*, ...)
+1712;externality;declared
+1712;_signature;char* strrchr(const char*, int)
+3267;externality;unknown
+3267;_signature;char* strrchr(const char*, int)
+1595;_signature;int inflateSync(z_streamp)
+3144;_signature;int inflateSync(z_streamp)
+2357;_signature;FILE* freopen(const char*, const char*, FILE*)
+2579;_signature;int _fseek_nolock(FILE*, long int, int)
+1721;_signature;char* _strupr_l(char*, _locale_t)
+1864;_signature;long int atol(const char*)
+3216;linkage;static
+3216;_signature;void send_all_trees(deflate_state*, int, int, int)
+3233;linkage;static
+3233;_signature;void send_all_trees(deflate_state*, int, int, int)
+2334;_signature;errno_t clearerr_s(FILE*)
+1613;_signature;gzFile gzdopen(int, const char*)
+2958;_signature;gzFile gzdopen(int, const char*)
+2200;typetag;enum
+2577;_signature;size_t _fread_nolock(void*, size_t, size_t, FILE*)
+2843;_signature;errno_t _chsize_s(int, long long int)
+2554;_signature;int _snwscanf_s(const wchar_t*, size_t, const wchar_t*, ...)
+1972;_signature;char* _ecvt(double, int, int*, int*)
+2341;_signature;int fgetc(FILE*)
+2858;_signature;char* _mktemp(char*)
+3207;linkage;static
+3207;_signature;void tr_static_init()
+3223;linkage;static
+3223;_signature;void tr_static_init()
+2922;_signature;gzFile gzopen64(const char*, const char*)
+2957;_signature;gzFile gzopen64(const char*, const char*)
+1980;_signature;int _atodbl_l(_CRT_DOUBLE*, char*, _locale_t)
+1901;_signature;errno_t mbstowcs_s(size_t*, wchar_t*, size_t, const char*, size_t)
+1630;_signature;int gzclose_w(gzFile)
+3006;_signature;int gzclose_w(gzFile)
+2953;linkage;static
+2953;_signature;gzFile gz_open(const void*, int, const char*)
+2955;linkage;static
+2955;_signature;gzFile gz_open(const void*, int, const char*)
+1678;_signature;errno_t memmove_s(void*, rsize_t, const void*, rsize_t)
+2881;_signature;int _wchmod(const wchar_t*, int)
+1935;_signature;void* _aligned_offset_realloc(void*, size_t, size_t, size_t)
+1655;_signature;int deflateResetKeep(z_streamp)
+2230;_signature;int deflateResetKeep(z_streamp)
+1717;_signature;char* strtok_s(char*, const char*, char**)
+2593;_signature;int putw(int, FILE*)
+1870;_signature;unsigned short int _byteswap_ushort(unsigned short int)
+1584;_signature;int deflateSetDictionary(z_streamp, const Bytef*, uInt)
+2229;_signature;int deflateSetDictionary(z_streamp, const Bytef*, uInt)
+1762;_signature;int _wcsnicmp_l(const wchar_t*, const wchar_t*, size_t, _locale_t)
+1788;_signature;int wcsnicmp(const wchar_t*, const wchar_t*, size_t)
+2516;_signature;int _fwprintf_s_l(FILE*, const wchar_t*, _locale_t, ...)
+1610;_signature;int uncompress(Bytef*, uLongf*, const Bytef*, uLong)
+3247;_signature;int uncompress(Bytef*, uLongf*, const Bytef*, uLong)
+1886;_signature;long long int _strtoi64_l(const char*, char**, int, _locale_t)
+3198;typetag;struct
+2121;typetag;struct
+3199;member-access;public
+3203;member-access;public
+3202;member-access;public
+2226;member-access;public
+3201;member-access;public
+3200;member-access;public
+1768;_signature;errno_t _wcslwr_s(wchar_t*, size_t)
+2020;_signature;char* ultoa(unsigned long int, char*, int)
+2219;typetag;struct
+2220;member-access;public
+2222;member-access;public
+2221;member-access;public
+2223;member-access;public
+2224;member-access;public
+2912;_signature;int locking(int, int, long int)
+2804;typetag;struct
+2808;member-access;public
+2807;member-access;public
+2809;member-access;public
+2810;member-access;public
+2805;member-access;public
+2806;member-access;public
+2555;_signature;int _snwscanf_s_l(const wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+2885;_signature;int _wunlink(const wchar_t*)
+1609;_signature;uLong compressBound(uLong)
+2041;_signature;uLong compressBound(uLong)
+2476;_signature;wint_t putwchar(wchar_t)
+2339;externality;declared
+2339;_signature;int ferror(FILE*)
+3268;externality;unknown
+3268;_signature;int ferror(FILE*)
+2925;_signature;long long int gzoffset64(gzFile)
+2966;_signature;long long int gzoffset64(gzFile)
+1646;_signature;long int gztell(gzFile)
+2965;_signature;long int gztell(gzFile)
+1854;_signature;unsigned int _set_abort_behavior(unsigned int, unsigned int)
+2058;linkage;static
+2058;_signature;uLong crc32_combine_(uLong, uLong, long long int)
+2066;linkage;static
+2066;_signature;uLong crc32_combine_(uLong, uLong, long long int)
+3197;linkage;static
+1545;typetag;struct
+3250;typetag;struct
+2131;typetag;struct
+2037;typetag;struct
+2135;member-access;public
+2163;member-access;public
+2134;member-access;public
+2140;member-access;public
+2152;member-access;public
+2157;member-access;public
+2172;member-access;public
+2161;member-access;public
+2148;member-access;public
+2151;member-access;public
+2167;member-access;public
+2184;member-access;public
+2144;member-access;public
+2170;member-access;public
+2185;member-access;public
+2173;member-access;public
+2189;member-access;public
+2169;member-access;public
+2190;member-access;public
+2146;member-access;public
+2147;member-access;public
+2142;member-access;public
+2177;member-access;public
+2188;member-access;public
+2132;member-access;public
+2171;member-access;public
+2154;member-access;public
+2174;member-access;public
+2138;member-access;public
+2149;member-access;public
+2136;member-access;public
+2156;member-access;public
+2158;member-access;public
+3251;member-access;public
+2038;member-access;public
+2141;member-access;public
+2176;member-access;public
+2178;member-access;public
+2175;member-access;public
+2183;member-access;public
+2165;member-access;public
+2166;member-access;public
+2168;member-access;public
+2182;member-access;public
+2159;member-access;public
+2160;member-access;public
+2181;member-access;public
+2164;member-access;public
+2187;member-access;public
+2133;member-access;public
+2143;member-access;public
+2155;member-access;public
+2153;member-access;public
+2186;member-access;public
+2145;member-access;public
+2179;member-access;public
+2180;member-access;public
+2139;member-access;public
+2150;member-access;public
+2137;member-access;public
+2162;member-access;public
+1680;_signature;char* _strdup(const char*)
+1698;_signature;errno_t _strlwr_s(char*, size_t)
+1950;_signature;wchar_t* _wgetenv(const wchar_t*)
+1931;_signature;void* _aligned_malloc(size_t, size_t)
+1834;_signature;wchar_t*** __p___wargv()
+2352;_signature;int fputc(int, FILE*)
+2400;_signature;int sprintf_s(char*, size_t, const char*, ...)
+2886;_signature;int _wrename(const wchar_t*, const wchar_t*)
+2004;_signature;int _wputenv(const wchar_t*)
+2872;_signature;int _findnext64(intptr_t, __finddata64_t*)
+2395;_signature;int _setmaxstdio(int)
+2351;_signature;int fprintf_s(FILE*, const char*, ...)
+1881;_signature;errno_t _ui64toa_s(unsigned long long int, char*, size_t, int)
+1580;_signature;int deflate(z_streamp, int)
+2240;_signature;int deflate(z_streamp, int)
+1866;_signature;void* bsearch_s(const void*, const void*, rsize_t, rsize_t, int (*)(void*, const void*, const void*), void*)
+2373;_signature;char* gets(char*)
+1970;_signature;char* _fullpath(char*, const char*, size_t)
+2863;_signature;int _umask(int)
+2207;linkage;static
+2207;_signature;void fill_window(deflate_state*)
+2246;linkage;static
+2246;_signature;void fill_window(deflate_state*)
+2422;externality;declared
+2422;_signature;int _snprintf(char*, size_t, const char*, ...)
+3269;externality;unknown
+3269;_signature;int _snprintf(char*, size_t, const char*, ...)
+2865;_signature;int _write(int, const void*, unsigned int)
+2387;externality;declared
+2387;_signature;int unlink(const char*)
+3270;externality;unknown
+3270;_signature;int unlink(const char*)
+1725;_signature;int strcmpi(const char*, const char*)
+2783;typetag;struct
+2787;member-access;public
+2786;member-access;public
+2788;member-access;public
+2789;member-access;public
+2784;member-access;public
+2785;member-access;public
+1847;_signature;errno_t _get_wpgmptr(wchar_t**)
+1797;typetag;struct
+1798;member-access;public
+1799;member-access;public
+2492;_signature;int swprintf_s(wchar_t*, size_t, const wchar_t*, ...)
+1941;_signature;wchar_t* _ltow(long int, wchar_t*, int)
+1754;_signature;wchar_t* wcstok_s(wchar_t*, const wchar_t*, wchar_t**)
+2890;_signature;intptr_t _wfindfirst64i32(const wchar_t*, _wfinddata64i32_t*)
+2521;_signature;int _swprintf_p_l(wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+1672;_signature;errno_t strcat_s(char*, rsize_t, const char*)
+1702;_signature;errno_t strncat_s(char*, rsize_t, const char*, rsize_t)
+1766;_signature;errno_t _wcsset_s(wchar_t*, size_t, wchar_t)
+1787;_signature;int wcsicmp(const wchar_t*, const wchar_t*)
+2211;linkage;static
+2211;_signature;block_state deflate_rle(deflate_state*, int)
+2250;linkage;static
+2250;_signature;block_state deflate_rle(deflate_state*, int)
+2012;_signature;void _sleep(unsigned long int)
+1960;_signature;errno_t _i64tow_s(long long int, wchar_t*, size_t, int)
+1924;_signature;size_t _wcstombs_l(char*, const wchar_t*, size_t, _locale_t)
+3026;typetag;struct
+3027;member-access;public
+3028;member-access;public
+3029;member-access;public
+1498;externality;declared
+1498;typetag;struct
+3271;externality;unknown
+3271;typetag;struct
+2430;_signature;int _fprintf_p(FILE*, const char*, ...)
+1823;_signature;_purecall_handler _get_purecall_handler()
+2416;_signature;int vfprintf_s(FILE*, const char*, va_list)
+3188;linkage;static
+2350;externality;declared
+2350;_signature;int fprintf(FILE*, const char*, ...)
+3272;externality;unknown
+3272;_signature;int fprintf(FILE*, const char*, ...)
+3217;linkage;static
+3217;_signature;void compress_block(deflate_state*, const ct_data*, const ct_data*)
+3239;linkage;static
+3239;_signature;void compress_block(deflate_state*, const ct_data*, const ct_data*)
+2877;_signature;int _open(const char*, int, ...)
+2475;_signature;wint_t putwc(wchar_t, FILE*)
+1715;_signature;char* strstr(const char*, const char*)
+2560;_signature;FILE* _wfdopen(int, const wchar_t*)
+1794;_signature;int wcsicoll(const wchar_t*, const wchar_t*)
+1916;_signature;char* _ultoa(unsigned long int, char*, int)
+1857;_signature;long long int llabs(long long int)
+3191;linkage;static
+1669;_signature;char* _strset(char*, int)
+3214;linkage;static
+3214;_signature;void send_tree(deflate_state*, ct_data*, int)
+3231;linkage;static
+3231;_signature;void send_tree(deflate_state*, ct_data*, int)
+1765;_signature;wchar_t* _wcsrev(wchar_t*)
+1500;typetag;struct
+1501;member-access;public
+1502;member-access;public
+1833;_signature;char*** __p___argv()
+1964;_signature;long long int _wtoi64(const wchar_t*)
+2478;_signature;wchar_t* fgetws(wchar_t*, int, FILE*)
+1861;_signature;double _atof_l(const char*, _locale_t)
+1919;_signature;errno_t wctomb_s(int*, char*, rsize_t, wchar_t)
+2472;_signature;wint_t _fputwchar(wchar_t)
+1913;_signature;unsigned long int _strtoul_l(const char*, char**, int, _locale_t)
+3128;linkage;static
+3128;_signature;int updatewindow(z_streamp, const unsigned char*, unsigned int)
+3137;linkage;static
+3137;_signature;int updatewindow(z_streamp, const Bytef*, unsigned int)
+1949;_signature;unsigned long int _wcstoul_l(const wchar_t*, wchar_t**, int, _locale_t)
+1635;_signature;int deflateInit_(z_streamp, int, const char*, int)
+2227;_signature;int deflateInit_(z_streamp, int, const char*, int)
+1773;_signature;wchar_t* _wcsupr(wchar_t*)
+2366;_signature;int _fseeki64(FILE*, long long int, int)
+2192;_signature;int _tr_tally(deflate_state*, unsigned int, unsigned int)
+3238;_signature;int _tr_tally(deflate_state*, unsigned int, unsigned int)
+2598;_signature;void test_deflate(Byte*, uLong)
+2613;_signature;void test_deflate(Byte*, uLong)
+1648;_signature;uLong adler32_combine(uLong, uLong, long int)
+2033;_signature;uLong adler32_combine(uLong, uLong, long int)
+2952;linkage;static
+2952;_signature;void gz_reset(gz_statep)
+2954;linkage;static
+2954;_signature;void gz_reset(gz_statep)
+3165;_signature;void file_compress(char*, char*)
+3171;_signature;void file_compress(char*, char*)
+2993;linkage;static
+2993;_signature;int gz_init(gz_statep)
+2996;linkage;static
+2996;_signature;int gz_init(gz_statep)
+2347;_signature;int _flushall()
+2518;_signature;int _vfwprintf_p_l(FILE*, const wchar_t*, _locale_t, va_list)
+2553;_signature;int _snwscanf_l(const wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+2212;linkage;static
+2212;_signature;block_state deflate_huff(deflate_state*, int)
+2251;linkage;static
+2251;_signature;block_state deflate_huff(deflate_state*, int)
+1629;_signature;int gzclose_r(gzFile)
+2991;_signature;int gzclose_r(gzFile)
+1760;_signature;int _wcsicmp_l(const wchar_t*, const wchar_t*, _locale_t)
+2419;externality;declared
+2419;_signature;int vsnprintf(char*, size_t, const char*, va_list)
+3273;externality;unknown
+3273;_signature;int vsnprintf(char*, size_t, const char*, va_list)
+2528;_signature;int _vscwprintf_p_l(const wchar_t*, _locale_t, va_list)
+1902;_signature;size_t mbstowcs(wchar_t*, const char*, size_t)
+2539;linkage;static
+2539;optimization;inline
+2539;_signature;int _swprintf_l(wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+2526;_signature;int _scwprintf_l(const wchar_t*, _locale_t, ...)
+1491;_signature;void _invalid_parameter_noinfo()
+2365;_signature;long int ftell(FILE*)
+1619;_signature;int gzputs(gzFile, const char*)
+3001;_signature;int gzputs(gzFile, const char*)
+1704;_signature;int strncmp(const char*, const char*, size_t)
+1614;_signature;int gzbuffer(gzFile, unsigned int)
+2960;_signature;int gzbuffer(gzFile, unsigned int)
+2587;_signature;FILE* fdopen(int, const char*)
+1776;_signature;size_t wcsxfrm(wchar_t*, const wchar_t*, size_t)
+1930;_signature;void _aligned_free(void*)
+1819;_signature;int ___mb_cur_max_func()
+1989;_signature;int _putenv(const char*)
+1748;_signature;wchar_t* wcsncpy(wchar_t*, const wchar_t*, size_t)
+2569;_signature;wchar_t* _wtmpnam(wchar_t*)
+1832;_signature;int* __p___argc()
+2213;linkage;static
+2213;_signature;void lm_init(deflate_state*)
+2244;linkage;static
+2244;_signature;void lm_init(deflate_state*)
+2610;_signature;void test_gzio(const char*, Byte*, uLong)
+2612;_signature;void test_gzio(const char*, Byte*, uLong)
+2571;_signature;wint_t _fputwc_nolock(wchar_t, FILE*)
+2847;_signature;int _dup(int)
+2562;_signature;errno_t _wfopen_s(FILE**, const wchar_t*, const wchar_t*)
+2948;_signature;void gz_error(gz_statep, int, const char*)
+2971;_signature;void gz_error(gz_statep, int, const char*)
+2889;_signature;intptr_t _wfindfirst32i64(const wchar_t*, _wfinddata32i64_t*)
+1658;_signature;void* _memccpy(void*, const void*, int, size_t)
+2825;typetag;struct
+2829;member-access;public
+2828;member-access;public
+2830;member-access;public
+2831;member-access;public
+2826;member-access;public
+2827;member-access;public
+2908;_signature;int dup2(int, int)
+1710;_signature;char* _strnset(char*, int, size_t)
+2564;_signature;errno_t _wfreopen_s(FILE**, const wchar_t*, const wchar_t*, FILE*)
+1582;_signature;int inflate(z_streamp, int)
+3138;_signature;int inflate(z_streamp, int)
+2460;_signature;int _vscprintf_l(const char*, _locale_t, va_list)
+2921;externality;declared
+2921;_signature;int write(int, const void*, unsigned int)
+3274;externality;unknown
+3274;_signature;int write(int, const void*, unsigned int)
+1674;externality;declared
+1674;_signature;int strcmp(const char*, const char*)
+3275;externality;unknown
+3275;_signature;int strcmp(const char*, const char*)
+1541;_signature;unsigned long int __threadid()
+2410;_signature;FILE* tmpfile()
+2884;_signature;int _wfindnext32(intptr_t, _wfinddata32_t*)
+1810;typetag;struct
+1811;member-access;public
+1637;_signature;int deflateInit2_(z_streamp, int, int, int, int, int, const char*, int)
+2228;_signature;int deflateInit2_(z_streamp, int, int, int, int, int, const char*, int)
+2570;_signature;wint_t _fgetwc_nolock(FILE*)
+2897;_signature;int _wsopen(const wchar_t*, int, int, ...)
+3035;_signature;int inflate_table(codetype, unsigned short int*, unsigned int, code**, unsigned int*, unsigned short int*)
+3152;_signature;int inflate_table(codetype, unsigned short int*, unsigned int, code**, unsigned int*, unsigned short int*)
+2920;_signature;int umask(int)
+2841;_signature;int _chmod(const char*, int)
+3190;linkage;static
+1650;_signature;const char* zError(int)
+3255;_signature;const char* zError(int)
+3215;linkage;static
+3215;_signature;int build_bl_tree(deflate_state*)
+3232;linkage;static
+3232;_signature;int build_bl_tree(deflate_state*)
+2856;_signature;long int _lseek(int, long int, int)
+1978;_signature;int _atoldbl(_LDOUBLE*, char*)
+2464;_signature;int _snprintf_s_l(char*, size_t, size_t, const char*, _locale_t, ...)
+1586;_signature;int deflateReset(z_streamp)
+2231;_signature;int deflateReset(z_streamp)
+2531;_signature;int _vsnwprintf_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+2895;_signature;errno_t _wsopen_s(int*, const wchar_t*, int, int, int)
+1624;_signature;int gzflush(gzFile, int)
+3004;_signature;int gzflush(gzFile, int)
+1708;_signature;char* strncpy(char*, const char*, size_t)
+1718;_signature;errno_t _strupr_s(char*, size_t)
+1859;_signature;int atexit(void (*)())
+2520;_signature;int _swprintf_c_l(wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+2534;_signature;int _vswprintf(wchar_t*, const wchar_t*, va_list)
+2353;_signature;int _fputchar(int)
+1996;_signature;void _searchenv(const char*, const char*, char*)
+1971;_signature;errno_t _ecvt_s(char*, size_t, double, int, int*, int*)
+2056;linkage;static
+2056;_signature;unsigned long int gf2_matrix_times(unsigned long int*, unsigned long int)
+2064;linkage;static
+2064;_signature;unsigned long int gf2_matrix_times(unsigned long int*, unsigned long int)
+2517;_signature;int _vfwprintf_l(FILE*, const wchar_t*, _locale_t, va_list)
+2551;_signature;int _swscanf_s_l(const wchar_t*, const wchar_t*, _locale_t, ...)
+3219;linkage;static
+3219;_signature;unsigned int bi_reverse(unsigned int, int)
+3241;linkage;static
+3241;_signature;unsigned int bi_reverse(unsigned int, int)
+1671;externality;declared
+1671;_signature;char* strcpy(char*, const char*)
+3276;externality;unknown
+3276;_signature;char* strcpy(char*, const char*)
+1944;_signature;double wcstod(const wchar_t*, wchar_t**)
+2378;externality;declared
+2378;_signature;int printf(const char*, ...)
+3277;externality;unknown
+3277;_signature;int printf(const char*, ...)
+2411;_signature;errno_t tmpfile_s(FILE**)
+2855;_signature;int _locking(int, int, long int)
+1875;_signature;errno_t getenv_s(size_t*, char*, rsize_t, const char*)
+2007;_signature;void _wsearchenv(const wchar_t*, const wchar_t*, wchar_t*)
+2331;_signature;int _flsbuf(int, FILE*)
+1755;_signature;wchar_t* _wcserror(int)
+1955;_signature;double _wtof_l(const wchar_t*, _locale_t)
+1750;_signature;wchar_t* wcsrchr(const wchar_t*, wchar_t)
+2384;_signature;int remove(const char*)
+2001;_signature;errno_t _wmakepath_s(wchar_t*, size_t, const wchar_t*, const wchar_t*, const wchar_t*, const wchar_t*)
+1908;_signature;double strtod(const char*, char**)
+1977;_signature;int _atodbl(_CRT_DOUBLE*, char*)
+3206;linkage;static
+2367;_signature;long long int _ftelli64(FILE*)
+2486;_signature;int wprintf_s(const wchar_t*, ...)
+2904;_signature;int chsize(int, long int)
+3205;linkage;static
+2504;_signature;int _swprintf_p(wchar_t*, size_t, const wchar_t*, ...)
+1604;_signature;int inflateBack(z_streamp, in_func, void*, out_func, void*)
+3109;_signature;int inflateBack(z_streamp, in_func, void*, out_func, void*)
+2602;_signature;void test_flush(Byte*, uLong*)
+2617;_signature;void test_flush(Byte*, uLong*)
+2846;_signature;int _creat(const char*, int)
+1756;_signature;errno_t _wcserror_s(wchar_t*, size_t, int)
+2477;_signature;wint_t ungetwc(wint_t, FILE*)
+2599;_signature;void test_inflate(Byte*, uLong, Byte*, uLong)
+2614;_signature;void test_inflate(Byte*, uLong, Byte*, uLong)
+2909;_signature;int eof(int)
+1792;_signature;wchar_t* wcslwr(wchar_t*)
+1740;_signature;size_t wcscspn(const wchar_t*, const wchar_t*)
+1757;_signature;wchar_t* __wcserror(const wchar_t*)
+1982;_signature;int _atoflt_l(_CRT_FLOAT*, char*, _locale_t)
+2853;_signature;int _findclose(intptr_t)
+1493;_signature;void _invoke_watson(const wchar_t*, const wchar_t*, const wchar_t*, unsigned int, uintptr_t)
+2839;_signature;int _access(const char*, int)
+2346;_signature;char* _tempnam(const char*, const char*)
+1849;_signature;errno_t _set_fmode(int)
+1608;_signature;int compress2(Bytef*, uLongf*, const Bytef*, uLong, int)
+2039;_signature;int compress2(Bytef*, uLongf*, const Bytef*, uLong, int)
+2589;externality;declared
+2589;_signature;int fileno(FILE*)
+3278;externality;unknown
+3278;_signature;int fileno(FILE*)
+1867;_signature;void* bsearch(const void*, const void*, size_t, size_t, int (*)(const void*, const void*))
+1967;_signature;long long int _wcstoi64_l(const wchar_t*, wchar_t**, int, _locale_t)
+2415;_signature;int vfprintf(FILE*, const char*, va_list)
+2054;linkage;static
+2054;_signature;unsigned long int crc32_little(unsigned long int, const unsigned char*, unsigned int)
+2062;linkage;static
+2062;_signature;unsigned long int crc32_little(unsigned long int, const unsigned char*, unsigned int)
+3212;linkage;static
+3212;_signature;void build_tree(deflate_state*, tree_desc*)
+3229;linkage;static
+3229;_signature;void build_tree(deflate_state*, tree_desc*)
+1995;_signature;errno_t _searchenv_s(const char*, const char*, char*, size_t)
+1943;_signature;wchar_t* _ultow(unsigned long int, wchar_t*, int)
+1633;_signature;uLong adler32(uLong, const Bytef*, uInt)
+2031;_signature;uLong adler32(uLong, const Bytef*, uInt)
+2386;_signature;int _unlink(const char*)
+2973;linkage;static
+2973;_signature;int gz_load(gz_statep, unsigned char*, unsigned int, unsigned int*)
+2979;linkage;static
+2979;_signature;int gz_load(gz_statep, unsigned char*, unsigned int, unsigned int*)
+1709;_signature;errno_t _strnset_s(char*, size_t, int, size_t)
+1827;_signature;unsigned long int* __doserrno()
+2449;_signature;int _vfprintf_l(FILE*, const char*, _locale_t, va_list)
+1911;_signature;long int _strtol_l(const char*, char**, int, _locale_t)
+1741;_signature;size_t wcslen(const wchar_t*)
+2385;_signature;int rename(const char*, const char*)
+2883;_signature;intptr_t _wfindfirst32(const wchar_t*, _wfinddata32_t*)
+2494;_signature;int _swprintf_c(wchar_t*, size_t, const wchar_t*, ...)
+1687;_signature;int _stricoll(const char*, const char*)
+2010;_signature;void _seterrormode(int)
+1716;_signature;char* strtok(char*, const char*)
+1965;_signature;long long int _wtoi64_l(const wchar_t*, _locale_t)
+2530;_signature;int _snwprintf_s_l(wchar_t*, size_t, size_t, const wchar_t*, _locale_t, ...)
+1987;_signature;_onexit_t _onexit(_onexit_t)
+1918;_signature;int _wctomb_l(char*, wchar_t, _locale_t)
+2474;_signature;wint_t getwchar()
+1822;_signature;_purecall_handler _set_purecall_handler(_purecall_handler)
+1985;_signature;errno_t _makepath_s(char*, size_t, const char*, const char*, const char*, const char*)
+2361;_signature;int fscanf_s(FILE*, const char*, ...)
+2879;_signature;int _waccess(const wchar_t*, int)
+3221;linkage;static
+3221;_signature;void bi_flush(deflate_state*)
+3242;linkage;static
+3242;_signature;void bi_flush(deflate_state*)
+2918;_signature;int sopen(const char*, int, int, ...)
+2561;_signature;FILE* _wfopen(const wchar_t*, const wchar_t*)
+2906;_signature;int creat(const char*, int)
+1874;_signature;char* getenv(const char*)
+2588;_signature;int fgetchar()
+1737;_signature;int wcscmp(const wchar_t*, const wchar_t*)
+1828;_signature;errno_t _set_doserrno(unsigned long int)
+1863;_signature;int _atoi_l(const char*, _locale_t)
+1830;_signature;char** __sys_errlist()
+1831;_signature;int* __sys_nerr()
+1685;_signature;int strcoll(const char*, const char*)
+1668;_signature;errno_t _strset_s(char*, size_t, int)
+1933;_signature;void* _aligned_realloc(void*, size_t, size_t)
+1651;_signature;int inflateSyncPoint(z_streamp)
+3145;_signature;int inflateSyncPoint(z_streamp)
+1782;_signature;int _wcsncoll(const wchar_t*, const wchar_t*, size_t)
+2572;_signature;wint_t _ungetwc_nolock(wint_t, FILE*)
+1994;_signature;unsigned long long int _rotr64(unsigned long long int, int)
+1659;externality;declared
+1659;_signature;void* memchr(const void*, int, size_t)
+3279;externality;unknown
+3279;_signature;void* memchr(const void*, int, size_t)
+1862;_signature;int atoi(const char*)
+1705;_signature;int _strnicmp(const char*, const char*, size_t)
+2573;_signature;void _lock_file(FILE*)
+1734;_signature;errno_t wcscat_s(wchar_t*, rsize_t, const wchar_t*)
+1784;_signature;int _wcsnicoll(const wchar_t*, const wchar_t*, size_t)
+2578;_signature;size_t _fread_nolock_s(void*, size_t, size_t, size_t, FILE*)
+2403;_signature;int _sscanf_l(const char*, const char*, _locale_t, ...)
+2535;_signature;int __swprintf_l(wchar_t*, const wchar_t*, _locale_t, ...)
+2370;_signature;int getchar()
+2348;externality;declared
+2348;_signature;FILE* fopen(const char*, const char*)
+3280;externality;unknown
+3280;_signature;FILE* fopen(const char*, const char*)
+2015;_signature;char* gcvt(double, int, char*)
+2481;_signature;wchar_t* _getws(wchar_t*)
+1618;_signature;int gzprintf(gzFile, const char*, ...)
+3003;_signature;int gzprintf(gzFile, const char*, ...)
+1873;_signature;div_t div(int, int)
+1599;_signature;int inflatePrime(z_streamp, int, int)
+3135;_signature;int inflatePrime(z_streamp, int, int)
+1626;_signature;int gzeof(gzFile)
+2968;_signature;int gzeof(gzFile)
+2363;_signature;int fsetpos(FILE*, const fpos_t*)
+2489;_signature;int vfwprintf_s(FILE*, const wchar_t*, va_list)
+1769;_signature;wchar_t* _wcslwr(wchar_t*)
+2864;_signature;errno_t _umask_s(int, int*)
+1746;_signature;int wcsncmp(const wchar_t*, const wchar_t*, size_t)
+1858;_signature;long long int _abs64(long long int)
+1540;_signature;errno_t _get_errno(int*)
+1820;_signature;int ___mb_cur_max_l_func(_locale_t)
+1961;_signature;wchar_t* _i64tow(long long int, wchar_t*, int)
+1801;typetag;struct
+1802;member-access;public
+1803;member-access;public
+2428;_signature;int _snprintf_c(char*, size_t, const char*, ...)
+1581;_signature;int deflateEnd(z_streamp)
+2241;_signature;int deflateEnd(z_streamp)
+1984;_signature;unsigned long int _lrotr(unsigned long int, int)
+2523;externality;declared
+2523;_signature;int _vswprintf_c_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+3281;externality;unknown
+3281;_signature;int _vswprintf_c_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+1855;_signature;int abs(int)
+1887;_signature;unsigned long long int _strtoui64(const char*, char**, int)
+2509;_signature;int _wprintf_p_l(const wchar_t*, _locale_t, ...)
+1564;typetag;struct
+1574;member-access;public
+1568;member-access;public
+1569;member-access;public
+1565;member-access;public
+1571;member-access;public
+1575;member-access;public
+1572;member-access;public
+1576;member-access;public
+1566;member-access;public
+1570;member-access;public
+1577;member-access;public
+1567;member-access;public
+1573;member-access;public
+1691;_signature;int _strnicoll(const char*, const char*, size_t)
+2849;_signature;int _eof(int)
+2543;_signature;int _vscwprintf_l(const wchar_t*, _locale_t, va_list)
+2394;_signature;void setbuf(FILE*, char*)
+2862;_signature;long int _tell(int)
+2852;_signature;int _findnext32(intptr_t, _finddata32_t*)
+1937;_signature;size_t _aligned_msize(void*, size_t, size_t)
+1893;_signature;int mblen(const char*, size_t)
+1772;_signature;errno_t _wcsupr_s(wchar_t*, size_t)
+1981;_signature;int _atoldbl_l(_LDOUBLE*, char*, _locale_t)
+2432;_signature;int _sprintf_p(char*, size_t, const char*, ...)
+2408;_signature;int _snscanf_s(const char*, size_t, const char*, ...)
+2426;_signature;int vsprintf(char*, const char*, va_list)
+1605;_signature;int inflateBackEnd(z_streamp)
+3110;_signature;int inflateBackEnd(z_streamp)
+1606;_signature;uLong zlibCompileFlags()
+3254;_signature;uLong zlibCompileFlags()
+1693;_signature;size_t strcspn(const char*, const char*)
+2567;_signature;int _wremove(const wchar_t*)
+1896;_signature;size_t _mbstrlen_l(const char*, _locale_t)
+1963;_signature;wchar_t* _ui64tow(unsigned long long int, wchar_t*, int)
+2008;_signature;void _wsplitpath(const wchar_t*, wchar_t*, wchar_t*, wchar_t*, wchar_t*)
+1596;_signature;int inflateCopy(z_streamp, z_streamp)
+3146;_signature;int inflateCopy(z_streamp, z_streamp)
+2502;_signature;int _vfwprintf_p(FILE*, const wchar_t*, va_list)
+2500;_signature;int _fwprintf_p(FILE*, const wchar_t*, ...)
+1808;typetag;struct
+1809;member-access;public
+1660;_signature;int _memicmp(const void*, const void*, size_t)
+1883;_signature;long long int _atoi64(const char*)
+2568;_signature;errno_t _wtmpnam_s(wchar_t*, size_t)
+1835;_signature;char*** __p__environ()
+2549;_signature;int _swscanf_l(const wchar_t*, const wchar_t*, _locale_t, ...)
+2011;_signature;void _beep(unsigned int, unsigned int)
+1899;_signature;int mbtowc(wchar_t*, const char*, size_t)
+1589;_signature;uLong deflateBound(z_streamp, uLong)
+2237;_signature;uLong deflateBound(z_streamp, uLong)
+2111;typetag;struct
+2116;member-access;public
+2117;typetag;union
+2119;member-access;public
+2118;member-access;public
+2113;typetag;union
+2114;member-access;public
+2115;member-access;public
+2112;member-access;public
+2349;_signature;errno_t fopen_s(FILE**, const char*, const char*)
+2466;_signature;int _vsnprintf_c_l(char*, size_t, const char*, _locale_t, va_list)
+2443;_signature;int _vprintf_l(const char*, _locale_t, va_list)
+1701;_signature;char* _strlwr_l(char*, _locale_t)
+2882;_signature;int _wcreat(const wchar_t*, int)
+2580;_signature;long int _ftell_nolock(FILE*)
+3166;_signature;void file_uncompress(char*)
+3172;_signature;void file_uncompress(char*)
+2440;_signature;int _printf_l(const char*, _locale_t, ...)
+2866;_signature;long long int _filelengthi64(int)
+1492;_signature;void _invalid_parameter_noinfo_noreturn()
+2397;_signature;unsigned int _get_output_format()
+2926;typetag;struct
+2944;member-access;public
+2932;member-access;public
+2936;member-access;public
+2928;member-access;public
+2933;member-access;public
+2938;member-access;public
+2945;member-access;public
+2940;member-access;public
+2937;member-access;public
+2941;member-access;public
+2946;member-access;public
+2927;member-access;public
+2931;member-access;public
+2939;member-access;public
+2934;member-access;public
+2943;member-access;public
+2935;member-access;public
+2930;member-access;public
+2929;member-access;public
+2942;member-access;public
+2582;_signature;long long int _ftelli64_nolock(FILE*)
+1657;_signature;int gzvprintf(gzFile, const char*, va_list)
+3002;_signature;int gzvprintf(gzFile, const char*, va_list)
+2840;_signature;errno_t _access_s(const char*, int)
+3210;linkage;static
+3210;_signature;void gen_bitlen(deflate_state*, tree_desc*)
+3227;linkage;static
+3227;_signature;void gen_bitlen(deflate_state*, tree_desc*)
+1665;externality;declared
+1665;_signature;void* memset(void*, int, size_t)
+3282;externality;unknown
+3282;_signature;void* memset(void*, int, size_t)
+1771;_signature;wchar_t* _wcslwr_l(wchar_t*, _locale_t)
+2899;_signature;void _unlock_fhandle(int)
+1915;_signature;errno_t _ultoa_s(unsigned long int, char*, size_t, int)
+1904;_signature;size_t _mbstowcs_l(wchar_t*, const char*, size_t, _locale_t)
+2913;_signature;long int lseek(int, long int, int)
+1628;_signature;int gzclose(gzFile)
+2949;_signature;int gzclose(gzFile)
+2487;_signature;int _scwprintf(const wchar_t*, ...)
+2547;_signature;int _fwscanf_s_l(FILE*, const wchar_t*, _locale_t, ...)
+1812;typetag;struct
+1813;member-access;public
+2354;_signature;int fputs(const char*, FILE*)
+1898;_signature;size_t _mbstrnlen_l(const char*, size_t, _locale_t)
+1670;_signature;errno_t strcpy_s(char*, rsize_t, const char*)
+1878;_signature;char* _itoa(int, char*, int)
+2355;externality;declared
+2355;_signature;size_t fread(void*, size_t, size_t, FILE*)
+3283;externality;unknown
+3283;_signature;size_t fread(void*, size_t, size_t, FILE*)
+2499;_signature;int _vsnwprintf(wchar_t*, size_t, const wchar_t*, va_list)
+1923;_signature;errno_t _wcstombs_s_l(size_t*, char*, size_t, const wchar_t*, size_t, _locale_t)
+2907;_signature;int dup(int)
+1947;_signature;long int _wcstol_l(const wchar_t*, wchar_t**, int, _locale_t)
+1679;_signature;void* memmove(void*, const void*, size_t)
+2605;_signature;void test_dict_inflate(Byte*, uLong, Byte*, uLong)
+2620;_signature;void test_dict_inflate(Byte*, uLong, Byte*, uLong)
+2193;_signature;void _tr_flush_block(deflate_state*, charf*, ulg, int)
+3237;_signature;void _tr_flush_block(deflate_state*, charf*, ulg, int)
+1882;_signature;char* _ui64toa(unsigned long long int, char*, int)
+1897;_signature;size_t _mbstrnlen(const char*, size_t)
+1939;_signature;wchar_t* _itow(int, wchar_t*, int)
+2344;_signature;char* fgets(char*, int, FILE*)
+2388;_signature;void rewind(FILE*)
+2878;_signature;int _sopen(const char*, int, int, ...)
+1728;_signature;int strnicmp(const char*, const char*, size_t)
+1938;_signature;errno_t _itow_s(int, wchar_t*, size_t, int)
+1775;_signature;wchar_t* _wcsupr_l(wchar_t*, _locale_t)
+2338;_signature;int feof(FILE*)
+1724;_signature;char* strdup(const char*)
+2055;linkage;static
+2055;_signature;unsigned long int crc32_big(unsigned long int, const unsigned char*, unsigned int)
+2063;linkage;static
+2063;_signature;unsigned long int crc32_big(unsigned long int, const unsigned char*, unsigned int)
+1694;_signature;char* _strerror(const char*)
+1774;_signature;errno_t _wcsupr_s_l(wchar_t*, size_t, _locale_t)
+1975;_signature;errno_t _gcvt_s(char*, size_t, double, int)
+1851;externality;declared
+1851;_signature;void exit(int)
+3284;externality;unknown
+3284;_signature;void exit(int)
+1856;_signature;long int labs(long int)
+2903;_signature;int chmod(const char*, int)
+2541;_signature;wchar_t* _wtempnam(const wchar_t*, const wchar_t*)
+1993;_signature;unsigned int _rotr(unsigned int, int)
+1616;_signature;int gzread(gzFile, voidp, unsigned int)
+2985;_signature;int gzread(gzFile, voidp, unsigned int)
+2462;_signature;int _snprintf_l(char*, size_t, const char*, _locale_t, ...)
+1662;_signature;int memcmp(const void*, const void*, size_t)
+1677;linkage;static
+1677;optimization;inline
+1677;_signature;size_t strnlen_s(const char*, size_t)
+2585;_signature;char* tempnam(const char*, const char*)
+1739;_signature;wchar_t* wcscpy(wchar_t*, const wchar_t*)
+2445;_signature;int _vprintf_s_l(const char*, _locale_t, va_list)
+2898;_signature;int __lock_fhandle(int)
+3220;linkage;static
+3220;_signature;void bi_windup(deflate_state*)
+3243;linkage;static
+3243;_signature;void bi_windup(deflate_state*)
+2005;_signature;errno_t _wputenv_s(const wchar_t*, const wchar_t*)
+1654;_signature;int inflateResetKeep(z_streamp)
+3130;_signature;int inflateResetKeep(z_streamp)
+1623;_signature;int gzungetc(int, gzFile)
+2988;_signature;int gzungetc(int, gzFile)
+2409;_signature;int _snscanf_s_l(const char*, size_t, const char*, _locale_t, ...)
+1872;_signature;unsigned long long int _byteswap_uint64(unsigned long long int)
+2482;_signature;int _putws(const wchar_t*)
+2515;_signature;int _fwprintf_p_l(FILE*, const wchar_t*, _locale_t, ...)
+1722;_signature;size_t strxfrm(char*, const char*, size_t)
+2497;_signature;int _vsnwprintf_s(wchar_t*, size_t, size_t, const wchar_t*, va_list)
+3129;linkage;static
+3129;_signature;unsigned int syncsearch(unsigned int*, const unsigned char*, unsigned int)
+3143;linkage;static
+3143;_signature;unsigned int syncsearch(unsigned int*, const unsigned char*, unsigned int)
+2540;linkage;static
+2540;optimization;inline
+2540;_signature;int _vswprintf_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+1910;_signature;long int strtol(const char*, char**, int)
+1920;_signature;errno_t _wctomb_s_l(int*, char*, size_t, wchar_t, _locale_t)
+3189;linkage;static
+1649;_signature;uLong crc32_combine(uLong, uLong, long int)
+2067;_signature;uLong crc32_combine(uLong, uLong, long int)
+1962;_signature;errno_t _ui64tow_s(unsigned long long int, wchar_t*, size_t, int)
+2495;_signature;int _vswprintf_c(wchar_t*, size_t, const wchar_t*, va_list)
+2503;_signature;int _vwprintf_p(const wchar_t*, va_list)
+2456;_signature;int _vsprintf_p_l(char*, size_t, const char*, _locale_t, va_list)
+1905;_signature;int rand()
+2916;externality;declared
+2916;_signature;int read(int, void*, unsigned int)
+3285;externality;unknown
+3285;_signature;int read(int, void*, unsigned int)
+2600;_signature;void test_large_deflate(Byte*, uLong, Byte*, uLong)
+2615;_signature;void test_large_deflate(Byte*, uLong, Byte*, uLong)
+1973;_signature;errno_t _fcvt_s(char*, size_t, double, int, int*, int*)
+1909;_signature;double _strtod_l(const char*, char**, _locale_t)
+1945;_signature;double _wcstod_l(const wchar_t*, wchar_t**, _locale_t)
+2214;linkage;static
+2214;_signature;void putShortMSB(deflate_state*, uInt)
+2238;linkage;static
+2238;_signature;void putShortMSB(deflate_state*, uInt)
+1990;_signature;errno_t _putenv_s(const char*, const char*)
+1846;_signature;errno_t _get_pgmptr(char**)
+2420;_signature;int vsnprintf_s(char*, size_t, size_t, const char*, va_list)
+2448;_signature;int _fprintf_s_l(FILE*, const char*, _locale_t, ...)
+3218;linkage;static
+3218;_signature;int detect_data_type(deflate_state*)
+3240;linkage;static
+3240;_signature;int detect_data_type(deflate_state*)
+2417;_signature;int vprintf(const char*, va_list)
+1783;_signature;int _wcsncoll_l(const wchar_t*, const wchar_t*, size_t, _locale_t)
+2542;_signature;int _vscwprintf(const wchar_t*, va_list)
+1692;_signature;int _strnicoll_l(const char*, const char*, size_t, _locale_t)
+1667;_signature;int memicmp(const void*, const void*, size_t)
+2994;linkage;static
+2994;_signature;int gz_comp(gz_statep, int)
+2997;linkage;static
+2997;_signature;int gz_comp(gz_statep, int)
+2441;_signature;int _printf_p_l(const char*, _locale_t, ...)
+2369;_signature;int getc(FILE*)
+2340;_signature;int fflush(FILE*)
+2195;_signature;void _tr_align(deflate_state*)
+3236;_signature;void _tr_align(deflate_state*)
+2208;linkage;static
+2208;_signature;block_state deflate_stored(deflate_state*, int)
+2247;linkage;static
+2247;_signature;block_state deflate_stored(deflate_state*, int)
+1793;_signature;wchar_t* wcsupr(wchar_t*)
+2488;_signature;int vfwprintf(FILE*, const wchar_t*, va_list)
+2975;linkage;static
+2975;_signature;int gz_look(gz_statep)
+2981;linkage;static
+2981;_signature;int gz_look(gz_statep)
+2848;_signature;int _dup2(int, int)
+3209;linkage;static
+3209;_signature;void pqdownheap(deflate_state*, ct_data*, int)
+3226;linkage;static
+3226;_signature;void pqdownheap(deflate_state*, ct_data*, int)
+2377;_signature;FILE* _popen(const char*, const char*)
+2917;externality;declared
+2917;_signature;int setmode(int, int)
+3286;externality;unknown
+3286;_signature;int setmode(int, int)
+2368;externality;declared
+2368;_signature;size_t fwrite(const void*, size_t, size_t, FILE*)
+3287;externality;unknown
+3287;_signature;size_t fwrite(const void*, size_t, size_t, FILE*)
+1697;_signature;errno_t strerror_s(char*, size_t, int)
+1853;_signature;void abort()
+2919;_signature;long int tell(int)
+2215;linkage;static
+2215;_signature;void flush_pending(z_streamp)
+2239;linkage;static
+2239;_signature;void flush_pending(z_streamp)
+1928;_signature;void* realloc(void*, size_t)
+2557;_signature;int _wscanf_l(const wchar_t*, _locale_t, ...)
+2581;_signature;int _fseeki64_nolock(FILE*, long long int, int)
+2867;_signature;intptr_t _findfirst32i64(const char*, _finddata32i64_t*)
+1954;_signature;double _wtof(const wchar_t*)
+2536;_signature;int __vswprintf_l(wchar_t*, const wchar_t*, _locale_t, va_list)
+1914;_signature;int system(const char*)
+1673;_signature;char* strcat(char*, const char*)
+2423;_signature;int _vsnprintf(char*, size_t, const char*, va_list)
+1900;_signature;int _mbtowc_l(wchar_t*, const char*, size_t, _locale_t)
+1539;_signature;errno_t _set_errno(int)
+2333;_signature;void clearerr(FILE*)
+2438;_signature;int _set_printf_count_output(int)
+2498;_signature;int _snwprintf(wchar_t*, size_t, const wchar_t*, ...)
+1645;_signature;long int gzseek(gzFile, long int, int)
+2963;_signature;long int gzseek(gzFile, long int, int)
+2533;_signature;int _swprintf(wchar_t*, const wchar_t*, ...)
+1627;_signature;int gzdirect(gzFile)
+2990;_signature;int gzdirect(gzFile)
+1585;_signature;int deflateCopy(z_streamp, z_streamp)
+2242;_signature;int deflateCopy(z_streamp, z_streamp)
+1666;_signature;void* memccpy(void*, const void*, int, size_t)
+1956;_signature;int _wtoi(const wchar_t*)
+2421;_signature;int _vsnprintf_s(char*, size_t, size_t, const char*, va_list)
+2556;_signature;int wscanf(const wchar_t*, ...)
+2356;_signature;size_t fread_s(void*, size_t, size_t, size_t, FILE*)
+1885;_signature;long long int _strtoi64(const char*, char**, int)
+2364;_signature;int fseek(FILE*, long int, int)
+1620;_signature;char* gzgets(gzFile, char*, int)
+2989;_signature;char* gzgets(gzFile, char*, int)
+1922;externality;declared
+1922;_signature;size_t wcstombs(char*, const wchar_t*, size_t)
+3288;externality;unknown
+3288;_signature;size_t wcstombs(char*, const wchar_t*, size_t)
+2413;_signature;char* tmpnam(char*)
+1625;_signature;int gzrewind(gzFile)
+2961;_signature;int gzrewind(gzFile)
+1733;_signature;wchar_t* _wcsdup(const wchar_t*)
+1713;_signature;char* _strrev(char*)
+1877;_signature;errno_t _itoa_s(int, char*, size_t, int)
+2797;typetag;struct
+2801;member-access;public
+2800;member-access;public
+2802;member-access;public
+2803;member-access;public
+2798;member-access;public
+2799;member-access;public
+3162;_signature;void error(const char*)
+3168;_signature;void error(const char*)
+2427;_signature;int _vscprintf(const char*, va_list)
+2892;_signature;int _wfindnext32i64(intptr_t, _wfinddata32i64_t*)
+1959;_signature;long int _wtol_l(const wchar_t*, _locale_t)
+1495;typetag;struct
+1838;_signature;wchar_t** __p__wpgmptr()
+1600;_signature;long int inflateMark(z_streamp)
+3148;_signature;long int inflateMark(z_streamp)
+3249;_signature;FILE* _fdopen(int, const char*)
+2337;_signature;FILE* _fdopen(int, const char*)
+2451;_signature;int _vfprintf_s_l(FILE*, const char*, _locale_t, va_list)
+2552;_signature;int _snwscanf(const wchar_t*, size_t, const wchar_t*, ...)
+2558;_signature;int wscanf_s(const wchar_t*, ...)
+2891;_signature;intptr_t _wfindfirst64(const wchar_t*, _wfinddata64_t*)
+1597;_signature;int inflateReset(z_streamp)
+3131;_signature;int inflateReset(z_streamp)
+2405;_signature;int _sscanf_s_l(const char*, const char*, _locale_t, ...)
+2537;linkage;static
+2537;optimization;inline
+2537;_signature;int swprintf(wchar_t*, size_t, const wchar_t*, ...)
+1999;_signature;void _swab(char*, char*, int)
+2016;_signature;char* itoa(int, char*, int)
+1505;typetag;struct
+1509;member-access;public
+1506;member-access;public
+1507;member-access;public
+1508;member-access;public
+2191;_signature;void _tr_init(deflate_state*)
+3224;_signature;void _tr_init(deflate_state*)
+2372;_signature;char* gets_s(char*, rsize_t)
+2442;_signature;int _printf_s_l(const char*, _locale_t, ...)
+1889;_signature;ldiv_t ldiv(long int, long int)
+2457;_signature;int _vsprintf_s_l(char*, size_t, const char*, _locale_t, va_list)
+1759;_signature;int _wcsicmp(const wchar_t*, const wchar_t*)
+2490;_signature;int vwprintf(const wchar_t*, va_list)
+1661;_signature;int _memicmp_l(const void*, const void*, size_t, _locale_t)
+2418;_signature;int vprintf_s(const char*, va_list)
+1695;_signature;errno_t _strerror_s(char*, size_t, const char*)
+2465;_signature;int _vsnprintf_l(char*, size_t, const char*, _locale_t, va_list)
+2480;_signature;wchar_t* _getws_s(wchar_t*, size_t)
+2360;_signature;int _fscanf_l(FILE*, const char*, _locale_t, ...)
+1907;_signature;void srand(unsigned int)
+2522;_signature;int _swprintf_s_l(wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+2584;_signature;int _ungetc_nolock(int, FILE*)
+2594;_signature;int rmtmp()
+1523;externality;unknown
+1523;typetag;struct
+2844;_signature;int _close(int)
+2874;_signature;long long int _telli64(int)
+2006;_signature;errno_t _wsearchenv_s(const wchar_t*, const wchar_t*, wchar_t*, size_t)
+1983;_signature;unsigned long int _lrotl(unsigned long int, int)
+2336;_signature;int _fcloseall()
+1884;_signature;long long int _atoi64_l(const char*, _locale_t)
+2021;_signature;_onexit_t onexit(_onexit_t)
+2590;_signature;int flushall()
+1891;_signature;errno_t _ltoa_s(long int, char*, size_t, int)
+2425;_signature;int sprintf(char*, const char*, ...)
+1912;_signature;unsigned long int strtoul(const char*, char**, int)
+2225;linkage;static
+1786;_signature;wchar_t* wcsdup(const wchar_t*)
+2332;_signature;FILE* _fsopen(const char*, const char*, int)
+2978;linkage;static
+2978;_signature;int gz_skip(gz_statep, long long int)
+2984;linkage;static
+2984;_signature;int gz_skip(gz_statep, long long int)
+1735;_signature;wchar_t* wcscat(wchar_t*, const wchar_t*)
+3204;linkage;static
+1865;_signature;long int _atol_l(const char*, _locale_t)
+2467;_signature;int _vsnprintf_s_l(char*, size_t, size_t, const char*, _locale_t, va_list)
+1720;_signature;errno_t _strupr_s_l(char*, size_t, _locale_t)
+2379;_signature;int printf_s(const char*, ...)
+1951;_signature;errno_t _wgetenv_s(size_t*, wchar_t*, size_t, const wchar_t*)
+2574;_signature;void _unlock_file(FILE*)
+2850;_signature;long int _filelength(int)
+3164;_signature;void gz_uncompress(gzFile, FILE*)
+3170;_signature;void gz_uncompress(gzFile, FILE*)
+2358;_signature;errno_t freopen_s(FILE**, const char*, const char*, FILE*)
+1664;_signature;errno_t memcpy_s(void*, rsize_t, const void*, rsize_t)
+1997;_signature;void _splitpath(const char*, char*, char*, char*, char*)
+2479;_signature;int fputws(const wchar_t*, FILE*)
+1686;_signature;int _strcoll_l(const char*, const char*, _locale_t)
+2550;_signature;int swscanf_s(const wchar_t*, const wchar_t*, ...)
+2910;_signature;long int filelength(int)
+1547;typetag;struct
+1550;member-access;public
+1551;member-access;public
+1553;member-access;public
+1559;member-access;public
+1548;member-access;public
+1557;member-access;public
+1560;member-access;public
+1558;member-access;public
+1556;member-access;public
+1555;member-access;public
+1549;member-access;public
+1552;member-access;public
+1554;member-access;public
+1561;member-access;public
+1753;_signature;wchar_t* wcstok(wchar_t*, const wchar_t*)
+1631;_signature;const char* gzerror(gzFile, int*)
+2969;_signature;const char* gzerror(gzFile, int*)
+1888;_signature;unsigned long long int _strtoui64_l(const char*, char**, int, _locale_t)
+1696;externality;declared
+1696;_signature;char* strerror(int)
+3289;externality;unknown
+3289;_signature;char* strerror(int)
+1636;_signature;int inflateInit_(z_streamp, const char*, int)
+3134;_signature;int inflateInit_(z_streamp, const char*, int)
+2483;_signature;int fwprintf(FILE*, const wchar_t*, ...)
+1940;_signature;errno_t _ltow_s(long int, wchar_t*, size_t, int)
+1749;_signature;wchar_t* wcspbrk(const wchar_t*, const wchar_t*)
+1952;_signature;errno_t _wdupenv_s(wchar_t**, size_t*, const wchar_t*)
+2000;_signature;wchar_t* _wfullpath(wchar_t*, const wchar_t*, size_t)
+2604;_signature;void test_dict_deflate(Byte*, uLong)
+2619;_signature;void test_dict_deflate(Byte*, uLong)
+1852;_signature;void _exit(int)
+2123;typetag;struct
+2126;member-access;public
+2124;member-access;public
+2125;member-access;public
+2524;_signature;int _vswprintf_p_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+1591;_signature;int deflatePrime(z_streamp, int, int)
+2234;_signature;int deflatePrime(z_streamp, int, int)
+1763;_signature;errno_t _wcsnset_s(wchar_t*, size_t, wchar_t, size_t)
+3208;linkage;static
+3208;_signature;void init_block(deflate_state*)
+3225;linkage;static
+3225;_signature;void init_block(deflate_state*)
+2470;_signature;wint_t _fgetwchar()
+2905;externality;declared
+2905;_signature;int close(int)
+3290;externality;unknown
+3290;_signature;int close(int)
+1790;_signature;wchar_t* wcsrev(wchar_t*)
+2591;_signature;int fputchar(int)
+2402;_signature;int sscanf(const char*, const char*, ...)
+2608;linkage;static
+1976;_signature;char* _gcvt(double, int, char*)
+2375;externality;declared
+2375;_signature;void perror(const char*)
+1988;externality;declared
+1988;_signature;void perror(const char*)
+3291;externality;unknown
+3291;_signature;void perror(const char*)
+1751;_signature;size_t wcsspn(const wchar_t*, const wchar_t*)
+2458;_signature;int _scprintf_l(const char*, _locale_t, ...)
+1688;_signature;int _stricoll_l(const char*, const char*, _locale_t)
+1953;_signature;int _wsystem(const wchar_t*)
+2876;_signature;errno_t _sopen_s_nolock(int*, const char*, int, int, int)
+1711;_signature;char* strpbrk(const char*, const char*)
+2447;_signature;int _fprintf_p_l(FILE*, const char*, _locale_t, ...)
+2209;linkage;static
+2209;_signature;block_state deflate_fast(deflate_state*, int)
+2248;linkage;static
+2248;_signature;block_state deflate_fast(deflate_state*, int)
+2216;linkage;static
+2216;_signature;int read_buf(z_streamp, Bytef*, unsigned int)
+2243;linkage;static
+2243;_signature;int read_buf(z_streamp, Bytef*, unsigned int)
+2433;_signature;int _vfprintf_p(FILE*, const char*, va_list)
+1579;_signature;const char* zlibVersion()
+3253;_signature;const char* zlibVersion()
+2392;_signature;int scanf_s(const char*, ...)
+2575;_signature;int _fclose_nolock(FILE*)
+3036;typetag;enum
+2914;_signature;char* mktemp(char*)
+2491;_signature;int vwprintf_s(const wchar_t*, va_list)
+1612;typetag;struct
+1641;member-access;public
+1642;member-access;public
+1640;member-access;public
+2002;_signature;void _wmakepath(wchar_t*, const wchar_t*, const wchar_t*, const wchar_t*, const wchar_t*)
+1958;_signature;long int _wtol(const wchar_t*)
+2359;_signature;int fscanf(FILE*, const char*, ...)
+1682;_signature;int _stricmp(const char*, const char*)
+2013;_signature;char* ecvt(double, int, int*, int*)
+2496;_signature;int _snwprintf_s(wchar_t*, size_t, size_t, const wchar_t*, ...)
+1876;_signature;errno_t _dupenv_s(char**, size_t*, const char*)
+2343;_signature;int fgetpos(FILE*, fpos_t*)
+1869;_signature;void qsort(void*, size_t, size_t, int (*)(const void*, const void*))
+2401;_signature;int _scprintf(const char*, ...)
+2519;_signature;int _vfwprintf_s_l(FILE*, const wchar_t*, _locale_t, va_list)
+2406;_signature;int _snscanf(const char*, size_t, const char*, ...)
+3105;_signature;void inflate_fast(z_streamp, unsigned int)
+3114;_signature;void inflate_fast(z_streamp, unsigned int)
+2609;_signature;void test_compress(Byte*, uLong, Byte*, uLong)
+2611;_signature;void test_compress(Byte*, uLong, Byte*, uLong)
+2818;typetag;struct
+2822;member-access;public
+2821;member-access;public
+2823;member-access;public
+2824;member-access;public
+2819;member-access;public
+2820;member-access;public
+1622;_signature;int gzgetc(gzFile)
+2986;_signature;int gzgetc(gzFile)
+2514;_signature;int _fwprintf_l(FILE*, const wchar_t*, _locale_t, ...)
+1850;_signature;errno_t _get_fmode(int*)
+1998;_signature;errno_t _splitpath_s(const char*, char*, size_t, char*, size_t, char*, size_t, char*, size_t)
+2318;typetag;struct
+2326;member-access;public
+2320;member-access;public
+2323;member-access;public
+2324;member-access;public
+2321;member-access;public
+2325;member-access;public
+2319;member-access;public
+2322;member-access;public
+2485;_signature;int wprintf(const wchar_t*, ...)
+2381;_signature;int putchar(int)
+2399;_signature;int _snprintf_s(char*, size_t, size_t, const char*, ...)
+2454;_signature;int _sprintf_s_l(char*, size_t, const char*, _locale_t, ...)
+1742;externality;declared
+1742;_signature;size_t wcsnlen(const wchar_t*, size_t)
+3292;externality;unknown
+3292;_signature;size_t wcsnlen(const wchar_t*, size_t)
+2525;_signature;int _vswprintf_s_l(wchar_t*, size_t, const wchar_t*, _locale_t, va_list)
+1991;_signature;unsigned int _rotl(unsigned int, int)
+1785;_signature;int _wcsnicoll_l(const wchar_t*, const wchar_t*, size_t, _locale_t)
+1632;_signature;void gzclearerr(gzFile)
+2970;_signature;void gzclearerr(gzFile)
+2335;externality;declared
+2335;_signature;int fclose(FILE*)
+3293;externality;unknown
+3293;_signature;int fclose(FILE*)
+1969;_signature;unsigned long long int _wcstoui64_l(const wchar_t*, wchar_t**, int, _locale_t)
+2019;_signature;void swab(char*, char*, int)
+2902;_signature;int access(const char*, int)
+2034;_signature;uLong adler32_combine64(uLong, uLong, long long int)
+1617;_signature;int gzwrite(gzFile, voidpc, unsigned int)
+2999;_signature;int gzwrite(gzFile, voidpc, unsigned int)
+2601;_signature;void test_large_inflate(Byte*, uLong, Byte*, uLong)
+2616;_signature;void test_large_inflate(Byte*, uLong, Byte*, uLong)
+1752;_signature;wchar_t* wcsstr(const wchar_t*, const wchar_t*)
+1791;_signature;wchar_t* wcsset(wchar_t*, wchar_t)
+2900;_signature;intptr_t _get_osfhandle(int)
+1903;_signature;errno_t _mbstowcs_s_l(size_t*, wchar_t*, size_t, const char*, size_t, _locale_t)
+2380;_signature;int putc(int, FILE*)
+2563;_signature;FILE* _wfreopen(const wchar_t*, const wchar_t*, FILE*)
+2412;_signature;errno_t tmpnam_s(char*, rsize_t)
+2869;_signature;intptr_t _findfirst64(const char*, __finddata64_t*)
+1683;_signature;int _strcmpi(const char*, const char*)
+1948;_signature;unsigned long int wcstoul(const wchar_t*, wchar_t**, int)
+2901;_signature;int _open_osfhandle(intptr_t, int)
+1780;_signature;int _wcsicoll(const wchar_t*, const wchar_t*)
+2453;_signature;int _sprintf_p_l(char*, size_t, const char*, _locale_t, ...)
+1538;externality;declared
+1538;_signature;int* _errno()
+3294;externality;unknown
+3294;_signature;int* _errno()
+1946;_signature;long int wcstol(const wchar_t*, wchar_t**, int)
+2376;_signature;int _pclose(FILE*)
+2911;_signature;int isatty(int)
+2059;linkage;static
+1764;_signature;wchar_t* _wcsnset(wchar_t*, wchar_t, size_t)
+2923;_signature;long long int gzseek64(gzFile, long long int, int)
+2962;_signature;long long int gzseek64(gzFile, long long int, int)
+1906;_signature;int _set_error_mode(int)
+2452;_signature;int _sprintf_l(char*, const char*, _locale_t, ...)
+2860;_signature;int _read(int, void*, unsigned int)
+2607;linkage;static
+2880;_signature;errno_t _waccess_s(const wchar_t*, int)
+2974;linkage;static
+2974;_signature;int gz_avail(gz_statep)
+2980;linkage;static
+2980;_signature;int gz_avail(gz_statep)
+1927;externality;declared
+1927;_signature;void* malloc(size_t)
+3295;externality;unknown
+3295;_signature;void* malloc(size_t)
+1805;typetag;struct
+1806;member-access;public
+1807;member-access;public
+2414;_signature;int ungetc(int, FILE*)
+1726;_signature;int stricmp(const char*, const char*)
+1747;_signature;errno_t wcsncpy_s(wchar_t*, rsize_t, const wchar_t*, rsize_t)
+1744;_signature;errno_t wcsncat_s(wchar_t*, rsize_t, const wchar_t*, rsize_t)
+2506;_signature;int _scwprintf_p(const wchar_t*, ...)
+2527;_signature;int _scwprintf_p_l(const wchar_t*, _locale_t, ...)
+1594;_signature;int inflateGetDictionary(z_streamp, Bytef*, uInt*)
+3140;_signature;int inflateGetDictionary(z_streamp, Bytef*, uInt*)
+2501;_signature;int _wprintf_p(const wchar_t*, ...)
+1880;_signature;char* _i64toa(long long int, char*, int)
+2446;_signature;int _fprintf_l(FILE*, const char*, _locale_t, ...)
+1879;_signature;errno_t _i64toa_s(long long int, char*, size_t, int)
+2459;_signature;int _scprintf_p_l(const char*, _locale_t, ...)
+2529;_signature;int _snwprintf_l(wchar_t*, size_t, const wchar_t*, _locale_t, ...)
+3030;typetag;enum
+1727;_signature;char* strlwr(char*)
+1814;typetag;struct
+1815;member-access;public
+2028;_signature;voidpf zcalloc(voidpf, unsigned int, unsigned int)
+3256;_signature;voidpf zcalloc(voidpf, unsigned int, unsigned int)
+2473;_signature;wint_t getwc(FILE*)
+2592;_signature;int getw(FILE*)
+1761;_signature;int _wcsnicmp(const wchar_t*, const wchar_t*, size_t)
+1942;_signature;errno_t _ultow_s(unsigned long int, wchar_t*, size_t, int)
+2014;_signature;char* fcvt(double, int, int*, int*)
+1779;_signature;int _wcscoll_l(const wchar_t*, const wchar_t*, _locale_t)
+2029;_signature;void zcfree(voidpf, voidpf)
+3257;_signature;void zcfree(voidpf, voidpf)
+2210;linkage;static
+2210;_signature;block_state deflate_slow(deflate_state*, int)
+2249;linkage;static
+2249;_signature;block_state deflate_slow(deflate_state*, int)
+1592;_signature;int deflateSetHeader(z_streamp, gz_headerp)
+2232;_signature;int deflateSetHeader(z_streamp, gz_headerp)
+2009;_signature;errno_t _wsplitpath_s(const wchar_t*, wchar_t*, size_t, wchar_t*, size_t, wchar_t*, size_t, wchar_t*, size_t)
+1621;_signature;int gzputc(gzFile, int)
+3000;_signature;int gzputc(gzFile, int)
+2565;_signature;void _wperror(const wchar_t*)
+2003;_signature;void _wperror(const wchar_t*)
+1829;_signature;errno_t _get_doserrno(unsigned long int*)
+2512;_signature;int _vwprintf_p_l(const wchar_t*, _locale_t, va_list)
+1607;_signature;int compress(Bytef*, uLongf*, const Bytef*, uLong)
+2040;_signature;int compress(Bytef*, uLongf*, const Bytef*, uLong)
+1652;_signature;const z_crc_t* get_crc_table()
+2060;_signature;const z_crc_t* get_crc_table()
+2389;_signature;int _rmtmp()
+2832;typetag;struct
+2836;member-access;public
+2835;member-access;public
+2837;member-access;public
+2838;member-access;public
+2833;member-access;public
+2834;member-access;public
+2870;_signature;int _findnext32i64(intptr_t, _finddata32i64_t*)
+1926;externality;declared
+1926;_signature;void free(void*)
+3296;externality;unknown
+3296;_signature;void free(void*)
+2845;_signature;int _commit(int)
+2857;_signature;errno_t _mktemp_s(char*, size_t)
+1588;_signature;int deflateTune(z_streamp, int, int, int, int)
+2236;_signature;int deflateTune(z_streamp, int, int, int, int)
+2875;_signature;errno_t _sopen_s(int*, const char*, int, int, int)
+1703;_signature;char* strncat(char*, const char*, size_t)
+2888;_signature;wchar_t* _wmktemp(wchar_t*)
+1732;_signature;char* strupr(char*)
+1826;_signature;_invalid_parameter_handler _get_invalid_parameter_handler()
+1590;_signature;int deflatePending(z_streamp, unsigned int*, int*)
+2233;_signature;int deflatePending(z_streamp, unsigned int*, int*)
+2583;_signature;size_t _fwrite_nolock(const void*, size_t, size_t, FILE*)
+2811;typetag;struct
+2815;member-access;public
+2814;member-access;public
+2816;member-access;public
+2817;member-access;public
+2812;member-access;public
+2813;member-access;public
+1743;linkage;static
+1743;optimization;inline
+1743;_signature;size_t wcsnlen_s(const wchar_t*, size_t)
+1929;_signature;void* _recalloc(void*, size_t, size_t)
+1789;_signature;wchar_t* wcsnset(wchar_t*, wchar_t, size_t)
+1871;_signature;unsigned long int _byteswap_ulong(unsigned long int)
+1719;_signature;char* _strupr(char*)
+1868;_signature;void qsort_s(void*, rsize_t, rsize_t, int (*)(void*, const void*, const void*), void*)
+2842;_signature;int _chsize(int, long int)
+1729;_signature;char* strnset(char*, int, size_t)
+2493;_signature;int vswprintf_s(wchar_t*, size_t, const wchar_t*, va_list)
+1656;_signature;gzFile gzopen_w(const wchar_t*, const char*)
+2959;_signature;gzFile gzopen_w(const wchar_t*, const char*)
+2018;_signature;int putenv(const char*)
+2471;_signature;wint_t fputwc(wchar_t, FILE*)
+1;__locs;6485

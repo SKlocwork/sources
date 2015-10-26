@@ -1,0 +1,17 @@
+C:\space\testing\sources\zlib-1.2.8\adler32.obj;c:\space\testing\sources\zlib-1.2.8\adler32.c;0
+C:\space\testing\sources\zlib-1.2.8\compress.obj;c:\space\testing\sources\zlib-1.2.8\compress.c;0;3
+C:\space\testing\sources\zlib-1.2.8\crc32.obj;c:\space\testing\sources\zlib-1.2.8\crc32.c;0
+C:\space\testing\sources\zlib-1.2.8\deflate.obj;c:\space\testing\sources\zlib-1.2.8\deflate.c;0;0;2;12
+C:\space\testing\sources\zlib-1.2.8\gzclose.obj;c:\space\testing\sources\zlib-1.2.8\gzclose.c;0;6;7
+C:\space\testing\sources\zlib-1.2.8\gzlib.obj;c:\space\testing\sources\zlib-1.2.8\gzlib.c;0
+C:\space\testing\sources\zlib-1.2.8\gzread.obj;c:\space\testing\sources\zlib-1.2.8\gzread.c;0;5;9
+C:\space\testing\sources\zlib-1.2.8\gzwrite.obj;c:\space\testing\sources\zlib-1.2.8\gzwrite.c;0;3;5
+C:\space\testing\sources\zlib-1.2.8\infback.obj;c:\space\testing\sources\zlib-1.2.8\infback.c;0;10;11
+C:\space\testing\sources\zlib-1.2.8\inflate.obj;c:\space\testing\sources\zlib-1.2.8\inflate.c;0;0;2;10;11
+C:\space\testing\sources\zlib-1.2.8\inftrees.obj;c:\space\testing\sources\zlib-1.2.8\inftrees.c;0
+C:\space\testing\sources\zlib-1.2.8\inffast.obj;c:\space\testing\sources\zlib-1.2.8\inffast.c;0
+C:\space\testing\sources\zlib-1.2.8\trees.obj;c:\space\testing\sources\zlib-1.2.8\trees.c;0
+C:\space\testing\sources\zlib-1.2.8\uncompr.obj;c:\space\testing\sources\zlib-1.2.8\uncompr.c;0;9
+C:\space\testing\sources\zlib-1.2.8\zutil.obj;c:\space\testing\sources\zlib-1.2.8\zutil.c;0
+C:\space\testing\sources\zlib-1.2.8\example.obj;c:\space\testing\sources\zlib-1.2.8\test\example.c;0;1;3;4;5;6;7;9;13;14
+C:\space\testing\sources\zlib-1.2.8\minigzip.obj;c:\space\testing\sources\zlib-1.2.8\test\minigzip.c;0;4;5;6;7

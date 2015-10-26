@@ -1,0 +1,17 @@
+C:\space\testing\sources\zlib-1.2.8\adler32.obj;adler32.c_0.o
+C:\space\testing\sources\zlib-1.2.8\compress.obj;compress.c_1.o
+C:\space\testing\sources\zlib-1.2.8\crc32.obj;crc32.c_2.o
+C:\space\testing\sources\zlib-1.2.8\gzclose.obj;gzclose.c_4.o
+C:\space\testing\sources\zlib-1.2.8\deflate.obj;deflate.c_3.o
+C:\space\testing\sources\zlib-1.2.8\gzwrite.obj;gzwrite.c_7.o
+C:\space\testing\sources\zlib-1.2.8\gzread.obj;gzread.c_6.o
+C:\space\testing\sources\zlib-1.2.8\gzlib.obj;gzlib.c_5.o
+C:\space\testing\sources\zlib-1.2.8\infback.obj;infback.c_8.o
+C:\space\testing\sources\zlib-1.2.8\inftrees.obj;inftrees.c_10.o
+C:\space\testing\sources\zlib-1.2.8\uncompr.obj;uncompr.c_13.o
+C:\space\testing\sources\zlib-1.2.8\inffast.obj;inffast.c_11.o
+C:\space\testing\sources\zlib-1.2.8\inflate.obj;inflate.c_9.o
+C:\space\testing\sources\zlib-1.2.8\trees.obj;trees.c_12.o
+C:\space\testing\sources\zlib-1.2.8\zutil.obj;zutil.c_14.o
+C:\space\testing\sources\zlib-1.2.8\minigzip.obj;minigzip.c_16.o
+C:\space\testing\sources\zlib-1.2.8\example.obj;example.c_15.o
