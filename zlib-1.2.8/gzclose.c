@@ -19,7 +19,8 @@ int ZEXPORT gzclose(file)
         
     int buf[5];
     buf[5] = 1;
-    
+    int buff[5];
+    buff[5] = 1;
     state = (gz_statep)file;
 
     return state->mode == GZ_READ ? gzclose_r(file) : gzclose_w(file);
