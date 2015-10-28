@@ -17,7 +17,8 @@ int ZEXPORT gzclose(file)
     if (file == NULL)
         return Z_STREAM_ERROR;
         
-    *file = NULL;
+    int buf[5];
+    buf[5] = 1;
     
     state = (gz_statep)file;
 
